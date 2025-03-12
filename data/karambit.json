@@ -1,0 +1,6002 @@
+[
+  {
+    "pattern": 387,
+    "percentage": 95.11,
+    "tier": 1,
+    "rank": 1
+  },
+  {
+    "pattern": 442,
+    "percentage": 93.1,
+    "tier": 1,
+    "rank": 2
+  },
+  {
+    "pattern": 853,
+    "percentage": 92.42,
+    "tier": 1,
+    "rank": 3
+  },
+  {
+    "pattern": 269,
+    "percentage": 91.47,
+    "tier": 1,
+    "rank": 4
+  },
+  {
+    "pattern": 776,
+    "percentage": 90.41,
+    "tier": 1,
+    "rank": 5
+  },
+  {
+    "pattern": 73,
+    "percentage": 89.87,
+    "tier": 1,
+    "rank": 6
+  },
+  {
+    "pattern": 470,
+    "percentage": 89.39,
+    "tier": 2,
+    "rank": 7
+  },
+  {
+    "pattern": 888,
+    "percentage": 87.92,
+    "tier": 3,
+    "rank": 8
+  },
+  {
+    "pattern": 809,
+    "percentage": 87.43,
+    "tier": 2,
+    "rank": 9
+  },
+  {
+    "pattern": 82,
+    "percentage": 86.19,
+    "tier": 2,
+    "rank": 10
+  },
+  {
+    "pattern": 905,
+    "percentage": 85.81,
+    "tier": 2,
+    "rank": 11
+  },
+  {
+    "pattern": 375,
+    "percentage": 85.2,
+    "tier": 2,
+    "rank": 12
+  },
+  {
+    "pattern": 463,
+    "percentage": 84.89,
+    "tier": 3,
+    "rank": 13
+  },
+  {
+    "pattern": 321,
+    "percentage": 84.24,
+    "tier": 1,
+    "rank": 14
+  },
+  {
+    "pattern": 507,
+    "percentage": 84.22,
+    "tier": 1,
+    "rank": 15
+  },
+  {
+    "pattern": 74,
+    "percentage": 83.92,
+    "tier": 2,
+    "rank": 16
+  },
+  {
+    "pattern": 377,
+    "percentage": 83.63,
+    "tier": 2,
+    "rank": 17
+  },
+  {
+    "pattern": 256,
+    "percentage": 83.2,
+    "tier": 3,
+    "rank": 18
+  },
+  {
+    "pattern": 541,
+    "percentage": 82.91,
+    "tier": 2,
+    "rank": 19
+  },
+  {
+    "pattern": 902,
+    "percentage": 82.7,
+    "tier": 1,
+    "rank": 20
+  },
+  {
+    "pattern": 510,
+    "percentage": 82.36,
+    "tier": 2,
+    "rank": 21
+  },
+  {
+    "pattern": 130,
+    "percentage": 82.18,
+    "tier": 2,
+    "rank": 22
+  },
+  {
+    "pattern": 341,
+    "percentage": 81.99,
+    "tier": 2,
+    "rank": 23
+  },
+  {
+    "pattern": 698,
+    "percentage": 81.36,
+    "tier": 2,
+    "rank": 24
+  },
+  {
+    "pattern": 664,
+    "percentage": 81.16,
+    "tier": 2,
+    "rank": 25
+  },
+  {
+    "pattern": 453,
+    "percentage": 80.78,
+    "tier": 2,
+    "rank": 26
+  },
+  {
+    "pattern": 727,
+    "percentage": 79.83,
+    "tier": 4,
+    "rank": 27
+  },
+  {
+    "pattern": 273,
+    "percentage": 79.18,
+    "tier": 2,
+    "rank": 28
+  },
+  {
+    "pattern": 580,
+    "percentage": 78.41,
+    "tier": 3,
+    "rank": 29
+  },
+  {
+    "pattern": 868,
+    "percentage": 78.32,
+    "tier": 2,
+    "rank": 30
+  },
+  {
+    "pattern": 322,
+    "percentage": 78.02,
+    "tier": 3,
+    "rank": 31
+  },
+  {
+    "pattern": 811,
+    "percentage": 77.83,
+    "tier": 3,
+    "rank": 32
+  },
+  {
+    "pattern": 914,
+    "percentage": 77.75,
+    "tier": 3,
+    "rank": 33
+  },
+  {
+    "pattern": 282,
+    "percentage": 77.71,
+    "tier": 2,
+    "rank": 34
+  },
+  {
+    "pattern": 798,
+    "percentage": 77.4,
+    "tier": 2,
+    "rank": 35
+  },
+  {
+    "pattern": 965,
+    "percentage": 76.86,
+    "tier": 3,
+    "rank": 36
+  },
+  {
+    "pattern": 20,
+    "percentage": 76.7,
+    "tier": 3,
+    "rank": 37
+  },
+  {
+    "pattern": 92,
+    "percentage": 76.63,
+    "tier": 3,
+    "rank": 38
+  },
+  {
+    "pattern": 713,
+    "percentage": 76.5,
+    "tier": 2,
+    "rank": 39
+  },
+  {
+    "pattern": 955,
+    "percentage": 75.92,
+    "tier": 1,
+    "rank": 40
+  },
+  {
+    "pattern": 494,
+    "percentage": 75.32,
+    "tier": 2,
+    "rank": 41
+  },
+  {
+    "pattern": 856,
+    "percentage": 75.23,
+    "tier": 3,
+    "rank": 42
+  },
+  {
+    "pattern": 661,
+    "percentage": 75.15,
+    "tier": 2,
+    "rank": 43
+  },
+  {
+    "pattern": 34,
+    "percentage": 74.8,
+    "tier": 3,
+    "rank": 44
+  },
+  {
+    "pattern": 721,
+    "percentage": 74.66,
+    "tier": 2,
+    "rank": 45
+  },
+  {
+    "pattern": 770,
+    "percentage": 74.39,
+    "tier": 3,
+    "rank": 46
+  },
+  {
+    "pattern": 4,
+    "percentage": 74.15,
+    "tier": 2,
+    "rank": 47
+  },
+  {
+    "pattern": 139,
+    "percentage": 74.02,
+    "tier": 3,
+    "rank": 48
+  },
+  {
+    "pattern": 152,
+    "percentage": 73.87,
+    "tier": 4,
+    "rank": 49
+  },
+  {
+    "pattern": 30,
+    "percentage": 73.04,
+    "tier": 3,
+    "rank": 50
+  },
+  {
+    "pattern": 782,
+    "percentage": 72.59,
+    "tier": 3,
+    "rank": 51
+  },
+  {
+    "pattern": 25,
+    "percentage": 72.58,
+    "tier": 4,
+    "rank": 52
+  },
+  {
+    "pattern": 891,
+    "percentage": 72.23,
+    "tier": 2,
+    "rank": 53
+  },
+  {
+    "pattern": 262,
+    "percentage": 71.98,
+    "tier": 3,
+    "rank": 54
+  },
+  {
+    "pattern": 917,
+    "percentage": 71.76,
+    "tier": 2,
+    "rank": 55
+  },
+  {
+    "pattern": 265,
+    "percentage": 71.71,
+    "tier": 4,
+    "rank": 56
+  },
+  {
+    "pattern": 57,
+    "percentage": 71.28,
+    "tier": 0,
+    "rank": 57
+  },
+  {
+    "pattern": 838,
+    "percentage": 71.14,
+    "tier": 2,
+    "rank": 58
+  },
+  {
+    "pattern": 670,
+    "percentage": 70.73,
+    "tier": 2,
+    "rank": 59
+  },
+  {
+    "pattern": 11,
+    "percentage": 70.55,
+    "tier": 3,
+    "rank": 60
+  },
+  {
+    "pattern": 841,
+    "percentage": 70.03,
+    "tier": 3,
+    "rank": 61
+  },
+  {
+    "pattern": 711,
+    "percentage": 69.7,
+    "tier": 3,
+    "rank": 62
+  },
+  {
+    "pattern": 330,
+    "percentage": 69.42,
+    "tier": 3,
+    "rank": 63
+  },
+  {
+    "pattern": 323,
+    "percentage": 69.32,
+    "tier": 4,
+    "rank": 64
+  },
+  {
+    "pattern": 823,
+    "percentage": 69.24,
+    "tier": 2,
+    "rank": 65
+  },
+  {
+    "pattern": 515,
+    "percentage": 69.04,
+    "tier": 3,
+    "rank": 66
+  },
+  {
+    "pattern": 989,
+    "percentage": 68.99,
+    "tier": 3,
+    "rank": 67
+  },
+  {
+    "pattern": 575,
+    "percentage": 68.66,
+    "tier": 3,
+    "rank": 68
+  },
+  {
+    "pattern": 631,
+    "percentage": 68.54,
+    "tier": 3,
+    "rank": 69
+  },
+  {
+    "pattern": 426,
+    "percentage": 68.47,
+    "tier": 4,
+    "rank": 70
+  },
+  {
+    "pattern": 182,
+    "percentage": 68.31,
+    "tier": 2,
+    "rank": 71
+  },
+  {
+    "pattern": 509,
+    "percentage": 68.19,
+    "tier": 4,
+    "rank": 72
+  },
+  {
+    "pattern": 112,
+    "percentage": 68.17,
+    "tier": 3,
+    "rank": 73
+  },
+  {
+    "pattern": 236,
+    "percentage": 67.63,
+    "tier": 3,
+    "rank": 74
+  },
+  {
+    "pattern": 828,
+    "percentage": 67.61,
+    "tier": 2,
+    "rank": 75
+  },
+  {
+    "pattern": 106,
+    "percentage": 67.49,
+    "tier": 4,
+    "rank": 76
+  },
+  {
+    "pattern": 138,
+    "percentage": 67.2,
+    "tier": 4,
+    "rank": 77
+  },
+  {
+    "pattern": 708,
+    "percentage": 66.92,
+    "tier": 4,
+    "rank": 78
+  },
+  {
+    "pattern": 852,
+    "percentage": 66.77,
+    "tier": 4,
+    "rank": 79
+  },
+  {
+    "pattern": 310,
+    "percentage": 66.49,
+    "tier": 3,
+    "rank": 80
+  },
+  {
+    "pattern": 694,
+    "percentage": 66.13,
+    "tier": 4,
+    "rank": 81
+  },
+  {
+    "pattern": 450,
+    "percentage": 65.28,
+    "tier": 4,
+    "rank": 82
+  },
+  {
+    "pattern": 643,
+    "percentage": 65.04,
+    "tier": 4,
+    "rank": 83
+  },
+  {
+    "pattern": 306,
+    "percentage": 65.03,
+    "tier": 3,
+    "rank": 84
+  },
+  {
+    "pattern": 499,
+    "percentage": 64.74,
+    "tier": 4,
+    "rank": 85
+  },
+  {
+    "pattern": 522,
+    "percentage": 64.56,
+    "tier": 3,
+    "rank": 86
+  },
+  {
+    "pattern": 919,
+    "percentage": 64.4,
+    "tier": 3,
+    "rank": 87
+  },
+  {
+    "pattern": 844,
+    "percentage": 64.3,
+    "tier": 3,
+    "rank": 88
+  },
+  {
+    "pattern": 655,
+    "percentage": 64.22,
+    "tier": 4,
+    "rank": 89
+  },
+  {
+    "pattern": 38,
+    "percentage": 63.49,
+    "tier": 4,
+    "rank": 90
+  },
+  {
+    "pattern": 803,
+    "percentage": 63.46,
+    "tier": 3,
+    "rank": 91
+  },
+  {
+    "pattern": 490,
+    "percentage": 62.29,
+    "tier": 4,
+    "rank": 92
+  },
+  {
+    "pattern": 335,
+    "percentage": 61.36,
+    "tier": 4,
+    "rank": 93
+  },
+  {
+    "pattern": 413,
+    "percentage": 60.95,
+    "tier": 0,
+    "rank": 94
+  },
+  {
+    "pattern": 615,
+    "percentage": 60.92,
+    "tier": 4,
+    "rank": 95
+  },
+  {
+    "pattern": 371,
+    "percentage": 60.44,
+    "tier": 3,
+    "rank": 96
+  },
+  {
+    "pattern": 405,
+    "percentage": 60.28,
+    "tier": 4,
+    "rank": 97
+  },
+  {
+    "pattern": 595,
+    "percentage": 60.2,
+    "tier": 4,
+    "rank": 98
+  },
+  {
+    "pattern": 194,
+    "percentage": 59.97,
+    "tier": 4,
+    "rank": 99
+  },
+  {
+    "pattern": 216,
+    "percentage": 59.75,
+    "tier": 0,
+    "rank": 100
+  },
+  {
+    "pattern": 488,
+    "percentage": 59.71,
+    "tier": 0,
+    "rank": 101
+  },
+  {
+    "pattern": 942,
+    "percentage": 59.4,
+    "tier": 4,
+    "rank": 102
+  },
+  {
+    "pattern": 638,
+    "percentage": 58.9,
+    "tier": 3,
+    "rank": 103
+  },
+  {
+    "pattern": 284,
+    "percentage": 58.62,
+    "tier": 4,
+    "rank": 104
+  },
+  {
+    "pattern": 398,
+    "percentage": 58.57,
+    "tier": 3,
+    "rank": 105
+  },
+  {
+    "pattern": 429,
+    "percentage": 58.08,
+    "tier": 3,
+    "rank": 106
+  },
+  {
+    "pattern": 420,
+    "percentage": 57.69,
+    "tier": 3,
+    "rank": 107
+  },
+  {
+    "pattern": 179,
+    "percentage": 57.41,
+    "tier": 2,
+    "rank": 108
+  },
+  {
+    "pattern": 916,
+    "percentage": 57.41,
+    "tier": 3,
+    "rank": 109
+  },
+  {
+    "pattern": 974,
+    "percentage": 57.27,
+    "tier": 4,
+    "rank": 110
+  },
+  {
+    "pattern": 766,
+    "percentage": 56.88,
+    "tier": 0,
+    "rank": 111
+  },
+  {
+    "pattern": 109,
+    "percentage": 56.85,
+    "tier": 0,
+    "rank": 112
+  },
+  {
+    "pattern": 432,
+    "percentage": 56.71,
+    "tier": 4,
+    "rank": 113
+  },
+  {
+    "pattern": 424,
+    "percentage": 56.44,
+    "tier": 4,
+    "rank": 114
+  },
+  {
+    "pattern": 259,
+    "percentage": 56.42,
+    "tier": 4,
+    "rank": 115
+  },
+  {
+    "pattern": 598,
+    "percentage": 56.32,
+    "tier": 3,
+    "rank": 116
+  },
+  {
+    "pattern": 935,
+    "percentage": 56.29,
+    "tier": 4,
+    "rank": 117
+  },
+  {
+    "pattern": 985,
+    "percentage": 56.05,
+    "tier": 4,
+    "rank": 118
+  },
+  {
+    "pattern": 728,
+    "percentage": 55.87,
+    "tier": 0,
+    "rank": 119
+  },
+  {
+    "pattern": 637,
+    "percentage": 55.83,
+    "tier": 0,
+    "rank": 120
+  },
+  {
+    "pattern": 244,
+    "percentage": 55.68,
+    "tier": 4,
+    "rank": 121
+  },
+  {
+    "pattern": 800,
+    "percentage": 55.66,
+    "tier": 4,
+    "rank": 122
+  },
+  {
+    "pattern": 849,
+    "percentage": 55.21,
+    "tier": 4,
+    "rank": 123
+  },
+  {
+    "pattern": 303,
+    "percentage": 55.04,
+    "tier": 0,
+    "rank": 124
+  },
+  {
+    "pattern": 407,
+    "percentage": 54.98,
+    "tier": 3,
+    "rank": 125
+  },
+  {
+    "pattern": 128,
+    "percentage": 54.71,
+    "tier": 0,
+    "rank": 126
+  },
+  {
+    "pattern": 961,
+    "percentage": 53.96,
+    "tier": 4,
+    "rank": 127
+  },
+  {
+    "pattern": 860,
+    "percentage": 53.9,
+    "tier": 0,
+    "rank": 128
+  },
+  {
+    "pattern": 796,
+    "percentage": 53.83,
+    "tier": 0,
+    "rank": 129
+  },
+  {
+    "pattern": 42,
+    "percentage": 53.51,
+    "tier": 0,
+    "rank": 130
+  },
+  {
+    "pattern": 334,
+    "percentage": 53.42,
+    "tier": 4,
+    "rank": 131
+  },
+  {
+    "pattern": 953,
+    "percentage": 53.27,
+    "tier": 4,
+    "rank": 132
+  },
+  {
+    "pattern": 945,
+    "percentage": 53.13,
+    "tier": 4,
+    "rank": 133
+  },
+  {
+    "pattern": 101,
+    "percentage": 52.61,
+    "tier": 0,
+    "rank": 134
+  },
+  {
+    "pattern": 676,
+    "percentage": 52.23,
+    "tier": 0,
+    "rank": 135
+  },
+  {
+    "pattern": 468,
+    "percentage": 52.04,
+    "tier": 4,
+    "rank": 136
+  },
+  {
+    "pattern": 177,
+    "percentage": 51.8,
+    "tier": 4,
+    "rank": 137
+  },
+  {
+    "pattern": 875,
+    "percentage": 51.58,
+    "tier": 4,
+    "rank": 138
+  },
+  {
+    "pattern": 254,
+    "percentage": 51.51,
+    "tier": 0,
+    "rank": 139
+  },
+  {
+    "pattern": 421,
+    "percentage": 50.99,
+    "tier": 0,
+    "rank": 140
+  },
+  {
+    "pattern": 381,
+    "percentage": 50.52,
+    "tier": 4,
+    "rank": 141
+  },
+  {
+    "pattern": 767,
+    "percentage": 50.51,
+    "tier": 0,
+    "rank": 142
+  },
+  {
+    "pattern": 283,
+    "percentage": 50.47,
+    "tier": 3,
+    "rank": 143
+  },
+  {
+    "pattern": 154,
+    "percentage": 50.21,
+    "tier": 0,
+    "rank": 144
+  },
+  {
+    "pattern": 202,
+    "percentage": 50.19,
+    "tier": 3,
+    "rank": 145
+  },
+  {
+    "pattern": 246,
+    "percentage": 49.96,
+    "tier": 0,
+    "rank": 146
+  },
+  {
+    "pattern": 555,
+    "percentage": 49.87,
+    "tier": 3,
+    "rank": 147
+  },
+  {
+    "pattern": 975,
+    "percentage": 49.81,
+    "tier": 0,
+    "rank": 148
+  },
+  {
+    "pattern": 563,
+    "percentage": 49.44,
+    "tier": 0,
+    "rank": 149
+  },
+  {
+    "pattern": 749,
+    "percentage": 49.18,
+    "tier": 4,
+    "rank": 150
+  },
+  {
+    "pattern": 793,
+    "percentage": 49.09,
+    "tier": 4,
+    "rank": 151
+  },
+  {
+    "pattern": 647,
+    "percentage": 49.07,
+    "tier": 0,
+    "rank": 152
+  },
+  {
+    "pattern": 9,
+    "percentage": 49.03,
+    "tier": 0,
+    "rank": 153
+  },
+  {
+    "pattern": 129,
+    "percentage": 48.96,
+    "tier": 0,
+    "rank": 154
+  },
+  {
+    "pattern": 913,
+    "percentage": 48.93,
+    "tier": 4,
+    "rank": 155
+  },
+  {
+    "pattern": 616,
+    "percentage": 48.88,
+    "tier": 0,
+    "rank": 156
+  },
+  {
+    "pattern": 464,
+    "percentage": 48.55,
+    "tier": 0,
+    "rank": 157
+  },
+  {
+    "pattern": 571,
+    "percentage": 48.45,
+    "tier": 0,
+    "rank": 158
+  },
+  {
+    "pattern": 116,
+    "percentage": 48.28,
+    "tier": 4,
+    "rank": 159
+  },
+  {
+    "pattern": 332,
+    "percentage": 48.27,
+    "tier": 0,
+    "rank": 160
+  },
+  {
+    "pattern": 122,
+    "percentage": 48.13,
+    "tier": 0,
+    "rank": 161
+  },
+  {
+    "pattern": 622,
+    "percentage": 48.13,
+    "tier": 4,
+    "rank": 162
+  },
+  {
+    "pattern": 205,
+    "percentage": 47.56,
+    "tier": 0,
+    "rank": 163
+  },
+  {
+    "pattern": 54,
+    "percentage": 47.27,
+    "tier": 0,
+    "rank": 164
+  },
+  {
+    "pattern": 547,
+    "percentage": 47.1,
+    "tier": 0,
+    "rank": 165
+  },
+  {
+    "pattern": 808,
+    "percentage": 46.7,
+    "tier": 0,
+    "rank": 166
+  },
+  {
+    "pattern": 834,
+    "percentage": 45.78,
+    "tier": 0,
+    "rank": 167
+  },
+  {
+    "pattern": 970,
+    "percentage": 45.66,
+    "tier": 0,
+    "rank": 168
+  },
+  {
+    "pattern": 146,
+    "percentage": 45.42,
+    "tier": 0,
+    "rank": 169
+  },
+  {
+    "pattern": 68,
+    "percentage": 44.91,
+    "tier": 0,
+    "rank": 170
+  },
+  {
+    "pattern": 85,
+    "percentage": 44.26,
+    "tier": 0,
+    "rank": 171
+  },
+  {
+    "pattern": 458,
+    "percentage": 44.23,
+    "tier": 0,
+    "rank": 172
+  },
+  {
+    "pattern": 826,
+    "percentage": 44.06,
+    "tier": 0,
+    "rank": 173
+  },
+  {
+    "pattern": 724,
+    "percentage": 44.04,
+    "tier": 0,
+    "rank": 174
+  },
+  {
+    "pattern": 644,
+    "percentage": 43.96,
+    "tier": 0,
+    "rank": 175
+  },
+  {
+    "pattern": 174,
+    "percentage": 43.73,
+    "tier": 0,
+    "rank": 176
+  },
+  {
+    "pattern": 717,
+    "percentage": 43.24,
+    "tier": 0,
+    "rank": 177
+  },
+  {
+    "pattern": 632,
+    "percentage": 43.2,
+    "tier": 3,
+    "rank": 178
+  },
+  {
+    "pattern": 521,
+    "percentage": 43.16,
+    "tier": 0,
+    "rank": 179
+  },
+  {
+    "pattern": 839,
+    "percentage": 42.71,
+    "tier": 4,
+    "rank": 180
+  },
+  {
+    "pattern": 32,
+    "percentage": 42.64,
+    "tier": 4,
+    "rank": 181
+  },
+  {
+    "pattern": 60,
+    "percentage": 42.35,
+    "tier": 0,
+    "rank": 182
+  },
+  {
+    "pattern": 949,
+    "percentage": 42.23,
+    "tier": 0,
+    "rank": 183
+  },
+  {
+    "pattern": 308,
+    "percentage": 42.2,
+    "tier": 0,
+    "rank": 184
+  },
+  {
+    "pattern": 652,
+    "percentage": 42.16,
+    "tier": 4,
+    "rank": 185
+  },
+  {
+    "pattern": 827,
+    "percentage": 42.16,
+    "tier": 0,
+    "rank": 186
+  },
+  {
+    "pattern": 775,
+    "percentage": 42.14,
+    "tier": 4,
+    "rank": 187
+  },
+  {
+    "pattern": 639,
+    "percentage": 42.07,
+    "tier": 0,
+    "rank": 188
+  },
+  {
+    "pattern": 278,
+    "percentage": 41.98,
+    "tier": 4,
+    "rank": 189
+  },
+  {
+    "pattern": 362,
+    "percentage": 41.8,
+    "tier": 0,
+    "rank": 190
+  },
+  {
+    "pattern": 160,
+    "percentage": 41.37,
+    "tier": 0,
+    "rank": 191
+  },
+  {
+    "pattern": 434,
+    "percentage": 41.19,
+    "tier": 4,
+    "rank": 192
+  },
+  {
+    "pattern": 28,
+    "percentage": 41.17,
+    "tier": 4,
+    "rank": 193
+  },
+  {
+    "pattern": 545,
+    "percentage": 41.11,
+    "tier": 0,
+    "rank": 194
+  },
+  {
+    "pattern": 290,
+    "percentage": 41.08,
+    "tier": 0,
+    "rank": 195
+  },
+  {
+    "pattern": 487,
+    "percentage": 41.02,
+    "tier": 0,
+    "rank": 196
+  },
+  {
+    "pattern": 530,
+    "percentage": 41.01,
+    "tier": 0,
+    "rank": 197
+  },
+  {
+    "pattern": 605,
+    "percentage": 40.88,
+    "tier": 0,
+    "rank": 198
+  },
+  {
+    "pattern": 690,
+    "percentage": 40.8,
+    "tier": 4,
+    "rank": 199
+  },
+  {
+    "pattern": 215,
+    "percentage": 40.68,
+    "tier": 0,
+    "rank": 200
+  },
+  {
+    "pattern": 840,
+    "percentage": 40.5,
+    "tier": 0,
+    "rank": 201
+  },
+  {
+    "pattern": 37,
+    "percentage": 40.45,
+    "tier": 0,
+    "rank": 202
+  },
+  {
+    "pattern": 674,
+    "percentage": 40.14,
+    "tier": 0,
+    "rank": 203
+  },
+  {
+    "pattern": 908,
+    "percentage": 40.05,
+    "tier": 0,
+    "rank": 204
+  },
+  {
+    "pattern": 689,
+    "percentage": 40.02,
+    "tier": 4,
+    "rank": 205
+  },
+  {
+    "pattern": 418,
+    "percentage": 40,
+    "tier": 4,
+    "rank": 206
+  },
+  {
+    "pattern": 847,
+    "percentage": 39.99,
+    "tier": 0,
+    "rank": 207
+  },
+  {
+    "pattern": 383,
+    "percentage": 39.89,
+    "tier": 0,
+    "rank": 208
+  },
+  {
+    "pattern": 810,
+    "percentage": 39.38,
+    "tier": 0,
+    "rank": 209
+  },
+  {
+    "pattern": 7,
+    "percentage": 39.26,
+    "tier": 0,
+    "rank": 210
+  },
+  {
+    "pattern": 928,
+    "percentage": 39.23,
+    "tier": 4,
+    "rank": 211
+  },
+  {
+    "pattern": 567,
+    "percentage": 39.13,
+    "tier": 0,
+    "rank": 212
+  },
+  {
+    "pattern": 814,
+    "percentage": 39.05,
+    "tier": 0,
+    "rank": 213
+  },
+  {
+    "pattern": 214,
+    "percentage": 39,
+    "tier": 0,
+    "rank": 214
+  },
+  {
+    "pattern": 485,
+    "percentage": 38.97,
+    "tier": 0,
+    "rank": 215
+  },
+  {
+    "pattern": 185,
+    "percentage": 38.89,
+    "tier": 4,
+    "rank": 216
+  },
+  {
+    "pattern": 862,
+    "percentage": 38.89,
+    "tier": 0,
+    "rank": 217
+  },
+  {
+    "pattern": 842,
+    "percentage": 38.88,
+    "tier": 0,
+    "rank": 218
+  },
+  {
+    "pattern": 627,
+    "percentage": 38.7,
+    "tier": 0,
+    "rank": 219
+  },
+  {
+    "pattern": 401,
+    "percentage": 38.61,
+    "tier": 4,
+    "rank": 220
+  },
+  {
+    "pattern": 833,
+    "percentage": 38.58,
+    "tier": 0,
+    "rank": 221
+  },
+  {
+    "pattern": 640,
+    "percentage": 38.54,
+    "tier": 0,
+    "rank": 222
+  },
+  {
+    "pattern": 662,
+    "percentage": 38.23,
+    "tier": 0,
+    "rank": 223
+  },
+  {
+    "pattern": 243,
+    "percentage": 38.21,
+    "tier": 0,
+    "rank": 224
+  },
+  {
+    "pattern": 922,
+    "percentage": 38.16,
+    "tier": 0,
+    "rank": 225
+  },
+  {
+    "pattern": 226,
+    "percentage": 38.05,
+    "tier": 0,
+    "rank": 226
+  },
+  {
+    "pattern": 187,
+    "percentage": 37.97,
+    "tier": 4,
+    "rank": 227
+  },
+  {
+    "pattern": 351,
+    "percentage": 37.97,
+    "tier": 0,
+    "rank": 228
+  },
+  {
+    "pattern": 302,
+    "percentage": 37.82,
+    "tier": 0,
+    "rank": 229
+  },
+  {
+    "pattern": 344,
+    "percentage": 37.78,
+    "tier": 0,
+    "rank": 230
+  },
+  {
+    "pattern": 455,
+    "percentage": 37.66,
+    "tier": 0,
+    "rank": 231
+  },
+  {
+    "pattern": 877,
+    "percentage": 37.53,
+    "tier": 0,
+    "rank": 232
+  },
+  {
+    "pattern": 532,
+    "percentage": 37.48,
+    "tier": 0,
+    "rank": 233
+  },
+  {
+    "pattern": 21,
+    "percentage": 37.45,
+    "tier": 0,
+    "rank": 234
+  },
+  {
+    "pattern": 359,
+    "percentage": 37.35,
+    "tier": 0,
+    "rank": 235
+  },
+  {
+    "pattern": 13,
+    "percentage": 37.27,
+    "tier": 0,
+    "rank": 236
+  },
+  {
+    "pattern": 153,
+    "percentage": 37.19,
+    "tier": 0,
+    "rank": 237
+  },
+  {
+    "pattern": 213,
+    "percentage": 37.01,
+    "tier": 0,
+    "rank": 238
+  },
+  {
+    "pattern": 804,
+    "percentage": 36.97,
+    "tier": 0,
+    "rank": 239
+  },
+  {
+    "pattern": 497,
+    "percentage": 36.88,
+    "tier": 4,
+    "rank": 240
+  },
+  {
+    "pattern": 720,
+    "percentage": 36.86,
+    "tier": 0,
+    "rank": 241
+  },
+  {
+    "pattern": 822,
+    "percentage": 36.75,
+    "tier": 0,
+    "rank": 242
+  },
+  {
+    "pattern": 396,
+    "percentage": 36.65,
+    "tier": 0,
+    "rank": 243
+  },
+  {
+    "pattern": 263,
+    "percentage": 36.42,
+    "tier": 0,
+    "rank": 244
+  },
+  {
+    "pattern": 797,
+    "percentage": 36.39,
+    "tier": 4,
+    "rank": 245
+  },
+  {
+    "pattern": 648,
+    "percentage": 36.36,
+    "tier": 0,
+    "rank": 246
+  },
+  {
+    "pattern": 373,
+    "percentage": 36.31,
+    "tier": 0,
+    "rank": 247
+  },
+  {
+    "pattern": 352,
+    "percentage": 36.28,
+    "tier": 0,
+    "rank": 248
+  },
+  {
+    "pattern": 578,
+    "percentage": 36.25,
+    "tier": 0,
+    "rank": 249
+  },
+  {
+    "pattern": 200,
+    "percentage": 36.23,
+    "tier": 0,
+    "rank": 250
+  },
+  {
+    "pattern": 250,
+    "percentage": 36.08,
+    "tier": 0,
+    "rank": 251
+  },
+  {
+    "pattern": 885,
+    "percentage": 36.08,
+    "tier": 0,
+    "rank": 252
+  },
+  {
+    "pattern": 628,
+    "percentage": 35.9,
+    "tier": 0,
+    "rank": 253
+  },
+  {
+    "pattern": 874,
+    "percentage": 35.59,
+    "tier": 0,
+    "rank": 254
+  },
+  {
+    "pattern": 831,
+    "percentage": 35.44,
+    "tier": 0,
+    "rank": 255
+  },
+  {
+    "pattern": 147,
+    "percentage": 35.4,
+    "tier": 0,
+    "rank": 256
+  },
+  {
+    "pattern": 634,
+    "percentage": 35.32,
+    "tier": 0,
+    "rank": 257
+  },
+  {
+    "pattern": 787,
+    "percentage": 35.24,
+    "tier": 0,
+    "rank": 258
+  },
+  {
+    "pattern": 879,
+    "percentage": 35.23,
+    "tier": 4,
+    "rank": 259
+  },
+  {
+    "pattern": 588,
+    "percentage": 35.09,
+    "tier": 4,
+    "rank": 260
+  },
+  {
+    "pattern": 570,
+    "percentage": 35.02,
+    "tier": 0,
+    "rank": 261
+  },
+  {
+    "pattern": 118,
+    "percentage": 34.95,
+    "tier": 0,
+    "rank": 262
+  },
+  {
+    "pattern": 228,
+    "percentage": 34.95,
+    "tier": 0,
+    "rank": 263
+  },
+  {
+    "pattern": 688,
+    "percentage": 34.94,
+    "tier": 0,
+    "rank": 264
+  },
+  {
+    "pattern": 298,
+    "percentage": 34.89,
+    "tier": 0,
+    "rank": 265
+  },
+  {
+    "pattern": 239,
+    "percentage": 34.84,
+    "tier": 0,
+    "rank": 266
+  },
+  {
+    "pattern": 126,
+    "percentage": 34.76,
+    "tier": 0,
+    "rank": 267
+  },
+  {
+    "pattern": 740,
+    "percentage": 34.58,
+    "tier": 0,
+    "rank": 268
+  },
+  {
+    "pattern": 325,
+    "percentage": 34.53,
+    "tier": 4,
+    "rank": 269
+  },
+  {
+    "pattern": 539,
+    "percentage": 34.33,
+    "tier": 0,
+    "rank": 270
+  },
+  {
+    "pattern": 918,
+    "percentage": 34.28,
+    "tier": 0,
+    "rank": 271
+  },
+  {
+    "pattern": 472,
+    "percentage": 34.09,
+    "tier": 0,
+    "rank": 272
+  },
+  {
+    "pattern": 821,
+    "percentage": 34.03,
+    "tier": 0,
+    "rank": 273
+  },
+  {
+    "pattern": 87,
+    "percentage": 33.99,
+    "tier": 0,
+    "rank": 274
+  },
+  {
+    "pattern": 172,
+    "percentage": 33.98,
+    "tier": 0,
+    "rank": 275
+  },
+  {
+    "pattern": 597,
+    "percentage": 33.94,
+    "tier": 0,
+    "rank": 276
+  },
+  {
+    "pattern": 275,
+    "percentage": 33.83,
+    "tier": 0,
+    "rank": 277
+  },
+  {
+    "pattern": 675,
+    "percentage": 33.79,
+    "tier": 0,
+    "rank": 278
+  },
+  {
+    "pattern": 773,
+    "percentage": 33.66,
+    "tier": 0,
+    "rank": 279
+  },
+  {
+    "pattern": 683,
+    "percentage": 33.5,
+    "tier": 0,
+    "rank": 280
+  },
+  {
+    "pattern": 230,
+    "percentage": 33.49,
+    "tier": 0,
+    "rank": 281
+  },
+  {
+    "pattern": 363,
+    "percentage": 33.33,
+    "tier": 4,
+    "rank": 282
+  },
+  {
+    "pattern": 125,
+    "percentage": 33.28,
+    "tier": 0,
+    "rank": 283
+  },
+  {
+    "pattern": 832,
+    "percentage": 33.24,
+    "tier": 0,
+    "rank": 284
+  },
+  {
+    "pattern": 180,
+    "percentage": 33.22,
+    "tier": 0,
+    "rank": 285
+  },
+  {
+    "pattern": 98,
+    "percentage": 33.17,
+    "tier": 0,
+    "rank": 286
+  },
+  {
+    "pattern": 189,
+    "percentage": 33.03,
+    "tier": 0,
+    "rank": 287
+  },
+  {
+    "pattern": 295,
+    "percentage": 32.9,
+    "tier": 0,
+    "rank": 288
+  },
+  {
+    "pattern": 542,
+    "percentage": 32.8,
+    "tier": 0,
+    "rank": 289
+  },
+  {
+    "pattern": 417,
+    "percentage": 32.59,
+    "tier": 0,
+    "rank": 290
+  },
+  {
+    "pattern": 854,
+    "percentage": 32.55,
+    "tier": 0,
+    "rank": 291
+  },
+  {
+    "pattern": 777,
+    "percentage": 32.48,
+    "tier": 0,
+    "rank": 292
+  },
+  {
+    "pattern": 791,
+    "percentage": 32.36,
+    "tier": 4,
+    "rank": 293
+  },
+  {
+    "pattern": 830,
+    "percentage": 32.34,
+    "tier": 0,
+    "rank": 294
+  },
+  {
+    "pattern": 901,
+    "percentage": 31.94,
+    "tier": 0,
+    "rank": 295
+  },
+  {
+    "pattern": 966,
+    "percentage": 31.91,
+    "tier": 0,
+    "rank": 296
+  },
+  {
+    "pattern": 899,
+    "percentage": 31.86,
+    "tier": 0,
+    "rank": 297
+  },
+  {
+    "pattern": 900,
+    "percentage": 31.76,
+    "tier": 0,
+    "rank": 298
+  },
+  {
+    "pattern": 585,
+    "percentage": 31.54,
+    "tier": 0,
+    "rank": 299
+  },
+  {
+    "pattern": 286,
+    "percentage": 31.34,
+    "tier": 4,
+    "rank": 300
+  },
+  {
+    "pattern": 950,
+    "percentage": 31.29,
+    "tier": 0,
+    "rank": 301
+  },
+  {
+    "pattern": 50,
+    "percentage": 31.17,
+    "tier": 0,
+    "rank": 302
+  },
+  {
+    "pattern": 89,
+    "percentage": 31.17,
+    "tier": 0,
+    "rank": 303
+  },
+  {
+    "pattern": 894,
+    "percentage": 31.12,
+    "tier": 0,
+    "rank": 304
+  },
+  {
+    "pattern": 237,
+    "percentage": 31.11,
+    "tier": 0,
+    "rank": 305
+  },
+  {
+    "pattern": 612,
+    "percentage": 31.08,
+    "tier": 0,
+    "rank": 306
+  },
+  {
+    "pattern": 940,
+    "percentage": 31.02,
+    "tier": 0,
+    "rank": 307
+  },
+  {
+    "pattern": 635,
+    "percentage": 30.85,
+    "tier": 0,
+    "rank": 308
+  },
+  {
+    "pattern": 379,
+    "percentage": 30.77,
+    "tier": 0,
+    "rank": 309
+  },
+  {
+    "pattern": 884,
+    "percentage": 30.66,
+    "tier": 0,
+    "rank": 310
+  },
+  {
+    "pattern": 471,
+    "percentage": 30.48,
+    "tier": 0,
+    "rank": 311
+  },
+  {
+    "pattern": 39,
+    "percentage": 30.45,
+    "tier": 0,
+    "rank": 312
+  },
+  {
+    "pattern": 625,
+    "percentage": 30.42,
+    "tier": 0,
+    "rank": 313
+  },
+  {
+    "pattern": 695,
+    "percentage": 30.4,
+    "tier": 4,
+    "rank": 314
+  },
+  {
+    "pattern": 207,
+    "percentage": 30.25,
+    "tier": 0,
+    "rank": 315
+  },
+  {
+    "pattern": 466,
+    "percentage": 30.1,
+    "tier": 0,
+    "rank": 316
+  },
+  {
+    "pattern": 762,
+    "percentage": 30.1,
+    "tier": 0,
+    "rank": 317
+  },
+  {
+    "pattern": 943,
+    "percentage": 30.06,
+    "tier": 0,
+    "rank": 318
+  },
+  {
+    "pattern": 788,
+    "percentage": 29.91,
+    "tier": 0,
+    "rank": 319
+  },
+  {
+    "pattern": 696,
+    "percentage": 29.8,
+    "tier": 0,
+    "rank": 320
+  },
+  {
+    "pattern": 702,
+    "percentage": 29.76,
+    "tier": 0,
+    "rank": 321
+  },
+  {
+    "pattern": 967,
+    "percentage": 29.67,
+    "tier": 0,
+    "rank": 322
+  },
+  {
+    "pattern": 557,
+    "percentage": 29.5,
+    "tier": 0,
+    "rank": 323
+  },
+  {
+    "pattern": 46,
+    "percentage": 29.35,
+    "tier": 0,
+    "rank": 324
+  },
+  {
+    "pattern": 870,
+    "percentage": 29.33,
+    "tier": 0,
+    "rank": 325
+  },
+  {
+    "pattern": 754,
+    "percentage": 29.3,
+    "tier": 0,
+    "rank": 326
+  },
+  {
+    "pattern": 699,
+    "percentage": 29.23,
+    "tier": 0,
+    "rank": 327
+  },
+  {
+    "pattern": 987,
+    "percentage": 29.2,
+    "tier": 0,
+    "rank": 328
+  },
+  {
+    "pattern": 608,
+    "percentage": 29.08,
+    "tier": 0,
+    "rank": 329
+  },
+  {
+    "pattern": 991,
+    "percentage": 28.97,
+    "tier": 0,
+    "rank": 330
+  },
+  {
+    "pattern": 626,
+    "percentage": 28.87,
+    "tier": 0,
+    "rank": 331
+  },
+  {
+    "pattern": 14,
+    "percentage": 28.72,
+    "tier": 0,
+    "rank": 332
+  },
+  {
+    "pattern": 836,
+    "percentage": 28.68,
+    "tier": 0,
+    "rank": 333
+  },
+  {
+    "pattern": 438,
+    "percentage": 28.62,
+    "tier": 0,
+    "rank": 334
+  },
+  {
+    "pattern": 978,
+    "percentage": 28.62,
+    "tier": 0,
+    "rank": 335
+  },
+  {
+    "pattern": 235,
+    "percentage": 28.51,
+    "tier": 0,
+    "rank": 336
+  },
+  {
+    "pattern": 447,
+    "percentage": 28.51,
+    "tier": 0,
+    "rank": 337
+  },
+  {
+    "pattern": 19,
+    "percentage": 28.47,
+    "tier": 0,
+    "rank": 338
+  },
+  {
+    "pattern": 380,
+    "percentage": 28.33,
+    "tier": 0,
+    "rank": 339
+  },
+  {
+    "pattern": 77,
+    "percentage": 28.32,
+    "tier": 0,
+    "rank": 340
+  },
+  {
+    "pattern": 691,
+    "percentage": 28.3,
+    "tier": 0,
+    "rank": 341
+  },
+  {
+    "pattern": 103,
+    "percentage": 28.2,
+    "tier": 4,
+    "rank": 342
+  },
+  {
+    "pattern": 6,
+    "percentage": 28.19,
+    "tier": 0,
+    "rank": 343
+  },
+  {
+    "pattern": 606,
+    "percentage": 28.17,
+    "tier": 0,
+    "rank": 344
+  },
+  {
+    "pattern": 707,
+    "percentage": 28.03,
+    "tier": 0,
+    "rank": 345
+  },
+  {
+    "pattern": 893,
+    "percentage": 28.02,
+    "tier": 0,
+    "rank": 346
+  },
+  {
+    "pattern": 400,
+    "percentage": 27.93,
+    "tier": 0,
+    "rank": 347
+  },
+  {
+    "pattern": 503,
+    "percentage": 27.91,
+    "tier": 0,
+    "rank": 348
+  },
+  {
+    "pattern": 617,
+    "percentage": 27.81,
+    "tier": 0,
+    "rank": 349
+  },
+  {
+    "pattern": 618,
+    "percentage": 27.66,
+    "tier": 0,
+    "rank": 350
+  },
+  {
+    "pattern": 872,
+    "percentage": 27.48,
+    "tier": 0,
+    "rank": 351
+  },
+  {
+    "pattern": 746,
+    "percentage": 27.37,
+    "tier": 0,
+    "rank": 352
+  },
+  {
+    "pattern": 369,
+    "percentage": 27.29,
+    "tier": 0,
+    "rank": 353
+  },
+  {
+    "pattern": 525,
+    "percentage": 27.26,
+    "tier": 0,
+    "rank": 354
+  },
+  {
+    "pattern": 609,
+    "percentage": 27.23,
+    "tier": 0,
+    "rank": 355
+  },
+  {
+    "pattern": 907,
+    "percentage": 27.16,
+    "tier": 0,
+    "rank": 356
+  },
+  {
+    "pattern": 732,
+    "percentage": 27.15,
+    "tier": 0,
+    "rank": 357
+  },
+  {
+    "pattern": 669,
+    "percentage": 27.13,
+    "tier": 0,
+    "rank": 358
+  },
+  {
+    "pattern": 223,
+    "percentage": 27.1,
+    "tier": 0,
+    "rank": 359
+  },
+  {
+    "pattern": 812,
+    "percentage": 26.99,
+    "tier": 0,
+    "rank": 360
+  },
+  {
+    "pattern": 0,
+    "percentage": 26.53,
+    "tier": 0,
+    "rank": 361
+  },
+  {
+    "pattern": 1,
+    "percentage": 26.53,
+    "tier": 0,
+    "rank": 362
+  },
+  {
+    "pattern": 673,
+    "percentage": 26.51,
+    "tier": 0,
+    "rank": 363
+  },
+  {
+    "pattern": 428,
+    "percentage": 26.22,
+    "tier": 0,
+    "rank": 364
+  },
+  {
+    "pattern": 700,
+    "percentage": 26.17,
+    "tier": 0,
+    "rank": 365
+  },
+  {
+    "pattern": 889,
+    "percentage": 26.17,
+    "tier": 0,
+    "rank": 366
+  },
+  {
+    "pattern": 444,
+    "percentage": 26.1,
+    "tier": 0,
+    "rank": 367
+  },
+  {
+    "pattern": 534,
+    "percentage": 25.98,
+    "tier": 0,
+    "rank": 368
+  },
+  {
+    "pattern": 682,
+    "percentage": 25.93,
+    "tier": 0,
+    "rank": 369
+  },
+  {
+    "pattern": 937,
+    "percentage": 25.84,
+    "tier": 0,
+    "rank": 370
+  },
+  {
+    "pattern": 697,
+    "percentage": 25.8,
+    "tier": 0,
+    "rank": 371
+  },
+  {
+    "pattern": 846,
+    "percentage": 25.71,
+    "tier": 0,
+    "rank": 372
+  },
+  {
+    "pattern": 474,
+    "percentage": 25.68,
+    "tier": 0,
+    "rank": 373
+  },
+  {
+    "pattern": 820,
+    "percentage": 25.65,
+    "tier": 0,
+    "rank": 374
+  },
+  {
+    "pattern": 886,
+    "percentage": 25.51,
+    "tier": 0,
+    "rank": 375
+  },
+  {
+    "pattern": 693,
+    "percentage": 25.41,
+    "tier": 0,
+    "rank": 376
+  },
+  {
+    "pattern": 166,
+    "percentage": 25.26,
+    "tier": 0,
+    "rank": 377
+  },
+  {
+    "pattern": 150,
+    "percentage": 25.21,
+    "tier": 0,
+    "rank": 378
+  },
+  {
+    "pattern": 813,
+    "percentage": 25.16,
+    "tier": 0,
+    "rank": 379
+  },
+  {
+    "pattern": 431,
+    "percentage": 25.09,
+    "tier": 0,
+    "rank": 380
+  },
+  {
+    "pattern": 81,
+    "percentage": 24.95,
+    "tier": 0,
+    "rank": 381
+  },
+  {
+    "pattern": 360,
+    "percentage": 24.9,
+    "tier": 0,
+    "rank": 382
+  },
+  {
+    "pattern": 641,
+    "percentage": 24.9,
+    "tier": 0,
+    "rank": 383
+  },
+  {
+    "pattern": 460,
+    "percentage": 24.85,
+    "tier": 0,
+    "rank": 384
+  },
+  {
+    "pattern": 175,
+    "percentage": 24.59,
+    "tier": 0,
+    "rank": 385
+  },
+  {
+    "pattern": 76,
+    "percentage": 24.52,
+    "tier": 0,
+    "rank": 386
+  },
+  {
+    "pattern": 61,
+    "percentage": 24.51,
+    "tier": 0,
+    "rank": 387
+  },
+  {
+    "pattern": 155,
+    "percentage": 24.44,
+    "tier": 0,
+    "rank": 388
+  },
+  {
+    "pattern": 505,
+    "percentage": 24.44,
+    "tier": 0,
+    "rank": 389
+  },
+  {
+    "pattern": 53,
+    "percentage": 24.4,
+    "tier": 0,
+    "rank": 390
+  },
+  {
+    "pattern": 242,
+    "percentage": 24.29,
+    "tier": 0,
+    "rank": 391
+  },
+  {
+    "pattern": 478,
+    "percentage": 24.22,
+    "tier": 0,
+    "rank": 392
+  },
+  {
+    "pattern": 178,
+    "percentage": 24.2,
+    "tier": 0,
+    "rank": 393
+  },
+  {
+    "pattern": 173,
+    "percentage": 24.19,
+    "tier": 0,
+    "rank": 394
+  },
+  {
+    "pattern": 887,
+    "percentage": 24.14,
+    "tier": 0,
+    "rank": 395
+  },
+  {
+    "pattern": 427,
+    "percentage": 24.02,
+    "tier": 0,
+    "rank": 396
+  },
+  {
+    "pattern": 264,
+    "percentage": 23.94,
+    "tier": 0,
+    "rank": 397
+  },
+  {
+    "pattern": 795,
+    "percentage": 23.93,
+    "tier": 0,
+    "rank": 398
+  },
+  {
+    "pattern": 582,
+    "percentage": 23.7,
+    "tier": 0,
+    "rank": 399
+  },
+  {
+    "pattern": 110,
+    "percentage": 23.68,
+    "tier": 0,
+    "rank": 400
+  },
+  {
+    "pattern": 370,
+    "percentage": 23.64,
+    "tier": 0,
+    "rank": 401
+  },
+  {
+    "pattern": 397,
+    "percentage": 23.64,
+    "tier": 0,
+    "rank": 402
+  },
+  {
+    "pattern": 222,
+    "percentage": 23.62,
+    "tier": 0,
+    "rank": 403
+  },
+  {
+    "pattern": 248,
+    "percentage": 23.58,
+    "tier": 0,
+    "rank": 404
+  },
+  {
+    "pattern": 317,
+    "percentage": 23.47,
+    "tier": 0,
+    "rank": 405
+  },
+  {
+    "pattern": 938,
+    "percentage": 23.46,
+    "tier": 0,
+    "rank": 406
+  },
+  {
+    "pattern": 305,
+    "percentage": 23.41,
+    "tier": 0,
+    "rank": 407
+  },
+  {
+    "pattern": 196,
+    "percentage": 23.35,
+    "tier": 0,
+    "rank": 408
+  },
+  {
+    "pattern": 529,
+    "percentage": 23.33,
+    "tier": 0,
+    "rank": 409
+  },
+  {
+    "pattern": 56,
+    "percentage": 23.3,
+    "tier": 0,
+    "rank": 410
+  },
+  {
+    "pattern": 376,
+    "percentage": 23.17,
+    "tier": 0,
+    "rank": 411
+  },
+  {
+    "pattern": 132,
+    "percentage": 23.13,
+    "tier": 0,
+    "rank": 412
+  },
+  {
+    "pattern": 311,
+    "percentage": 22.95,
+    "tier": 0,
+    "rank": 413
+  },
+  {
+    "pattern": 66,
+    "percentage": 22.92,
+    "tier": 0,
+    "rank": 414
+  },
+  {
+    "pattern": 880,
+    "percentage": 22.9,
+    "tier": 0,
+    "rank": 415
+  },
+  {
+    "pattern": 930,
+    "percentage": 22.76,
+    "tier": 0,
+    "rank": 416
+  },
+  {
+    "pattern": 526,
+    "percentage": 22.7,
+    "tier": 0,
+    "rank": 417
+  },
+  {
+    "pattern": 198,
+    "percentage": 22.65,
+    "tier": 0,
+    "rank": 418
+  },
+  {
+    "pattern": 517,
+    "percentage": 22.64,
+    "tier": 0,
+    "rank": 419
+  },
+  {
+    "pattern": 960,
+    "percentage": 22.64,
+    "tier": 0,
+    "rank": 420
+  },
+  {
+    "pattern": 789,
+    "percentage": 22.58,
+    "tier": 0,
+    "rank": 421
+  },
+  {
+    "pattern": 714,
+    "percentage": 22.42,
+    "tier": 0,
+    "rank": 422
+  },
+  {
+    "pattern": 936,
+    "percentage": 22.39,
+    "tier": 0,
+    "rank": 423
+  },
+  {
+    "pattern": 924,
+    "percentage": 22.19,
+    "tier": 0,
+    "rank": 424
+  },
+  {
+    "pattern": 285,
+    "percentage": 22.12,
+    "tier": 0,
+    "rank": 425
+  },
+  {
+    "pattern": 276,
+    "percentage": 22.11,
+    "tier": 0,
+    "rank": 426
+  },
+  {
+    "pattern": 736,
+    "percentage": 22,
+    "tier": 0,
+    "rank": 427
+  },
+  {
+    "pattern": 587,
+    "percentage": 21.92,
+    "tier": 0,
+    "rank": 428
+  },
+  {
+    "pattern": 220,
+    "percentage": 21.89,
+    "tier": 0,
+    "rank": 429
+  },
+  {
+    "pattern": 501,
+    "percentage": 21.89,
+    "tier": 0,
+    "rank": 430
+  },
+  {
+    "pattern": 997,
+    "percentage": 21.88,
+    "tier": 0,
+    "rank": 431
+  },
+  {
+    "pattern": 314,
+    "percentage": 21.73,
+    "tier": 0,
+    "rank": 432
+  },
+  {
+    "pattern": 448,
+    "percentage": 21.7,
+    "tier": 0,
+    "rank": 433
+  },
+  {
+    "pattern": 878,
+    "percentage": 21.68,
+    "tier": 0,
+    "rank": 434
+  },
+  {
+    "pattern": 806,
+    "percentage": 21.52,
+    "tier": 0,
+    "rank": 435
+  },
+  {
+    "pattern": 964,
+    "percentage": 21.36,
+    "tier": 0,
+    "rank": 436
+  },
+  {
+    "pattern": 430,
+    "percentage": 21.34,
+    "tier": 0,
+    "rank": 437
+  },
+  {
+    "pattern": 881,
+    "percentage": 21.16,
+    "tier": 0,
+    "rank": 438
+  },
+  {
+    "pattern": 659,
+    "percentage": 21.13,
+    "tier": 0,
+    "rank": 439
+  },
+  {
+    "pattern": 127,
+    "percentage": 21.05,
+    "tier": 0,
+    "rank": 440
+  },
+  {
+    "pattern": 577,
+    "percentage": 21.05,
+    "tier": 0,
+    "rank": 441
+  },
+  {
+    "pattern": 944,
+    "percentage": 21.04,
+    "tier": 0,
+    "rank": 442
+  },
+  {
+    "pattern": 927,
+    "percentage": 21.01,
+    "tier": 0,
+    "rank": 443
+  },
+  {
+    "pattern": 171,
+    "percentage": 20.97,
+    "tier": 0,
+    "rank": 444
+  },
+  {
+    "pattern": 151,
+    "percentage": 20.78,
+    "tier": 4,
+    "rank": 445
+  },
+  {
+    "pattern": 217,
+    "percentage": 20.75,
+    "tier": 0,
+    "rank": 446
+  },
+  {
+    "pattern": 157,
+    "percentage": 20.74,
+    "tier": 0,
+    "rank": 447
+  },
+  {
+    "pattern": 293,
+    "percentage": 20.73,
+    "tier": 0,
+    "rank": 448
+  },
+  {
+    "pattern": 333,
+    "percentage": 20.65,
+    "tier": 0,
+    "rank": 449
+  },
+  {
+    "pattern": 79,
+    "percentage": 20.58,
+    "tier": 0,
+    "rank": 450
+  },
+  {
+    "pattern": 948,
+    "percentage": 20.56,
+    "tier": 0,
+    "rank": 451
+  },
+  {
+    "pattern": 703,
+    "percentage": 20.51,
+    "tier": 0,
+    "rank": 452
+  },
+  {
+    "pattern": 496,
+    "percentage": 20.49,
+    "tier": 0,
+    "rank": 453
+  },
+  {
+    "pattern": 556,
+    "percentage": 20.43,
+    "tier": 0,
+    "rank": 454
+  },
+  {
+    "pattern": 134,
+    "percentage": 20.42,
+    "tier": 0,
+    "rank": 455
+  },
+  {
+    "pattern": 255,
+    "percentage": 20.42,
+    "tier": 0,
+    "rank": 456
+  },
+  {
+    "pattern": 629,
+    "percentage": 20.4,
+    "tier": 0,
+    "rank": 457
+  },
+  {
+    "pattern": 170,
+    "percentage": 20.26,
+    "tier": 0,
+    "rank": 458
+  },
+  {
+    "pattern": 111,
+    "percentage": 20.17,
+    "tier": 0,
+    "rank": 459
+  },
+  {
+    "pattern": 906,
+    "percentage": 20.14,
+    "tier": 0,
+    "rank": 460
+  },
+  {
+    "pattern": 199,
+    "percentage": 20,
+    "tier": 0,
+    "rank": 461
+  },
+  {
+    "pattern": 423,
+    "percentage": 19.92,
+    "tier": 0,
+    "rank": 462
+  },
+  {
+    "pattern": 725,
+    "percentage": 19.9,
+    "tier": 0,
+    "rank": 463
+  },
+  {
+    "pattern": 5,
+    "percentage": 19.8,
+    "tier": 0,
+    "rank": 464
+  },
+  {
+    "pattern": 566,
+    "percentage": 19.8,
+    "tier": 0,
+    "rank": 465
+  },
+  {
+    "pattern": 620,
+    "percentage": 19.63,
+    "tier": 0,
+    "rank": 466
+  },
+  {
+    "pattern": 238,
+    "percentage": 19.43,
+    "tier": 0,
+    "rank": 467
+  },
+  {
+    "pattern": 586,
+    "percentage": 19.26,
+    "tier": 0,
+    "rank": 468
+  },
+  {
+    "pattern": 149,
+    "percentage": 19.11,
+    "tier": 0,
+    "rank": 469
+  },
+  {
+    "pattern": 837,
+    "percentage": 19.05,
+    "tier": 0,
+    "rank": 470
+  },
+  {
+    "pattern": 399,
+    "percentage": 18.89,
+    "tier": 0,
+    "rank": 471
+  },
+  {
+    "pattern": 368,
+    "percentage": 18.85,
+    "tier": 0,
+    "rank": 472
+  },
+  {
+    "pattern": 17,
+    "percentage": 18.84,
+    "tier": 0,
+    "rank": 473
+  },
+  {
+    "pattern": 26,
+    "percentage": 18.6,
+    "tier": 0,
+    "rank": 474
+  },
+  {
+    "pattern": 260,
+    "percentage": 18.53,
+    "tier": 0,
+    "rank": 475
+  },
+  {
+    "pattern": 977,
+    "percentage": 18.12,
+    "tier": 0,
+    "rank": 476
+  },
+  {
+    "pattern": 435,
+    "percentage": 18.05,
+    "tier": 0,
+    "rank": 477
+  },
+  {
+    "pattern": 829,
+    "percentage": 17.88,
+    "tier": 0,
+    "rank": 478
+  },
+  {
+    "pattern": 865,
+    "percentage": 17.84,
+    "tier": 0,
+    "rank": 479
+  },
+  {
+    "pattern": 348,
+    "percentage": 17.77,
+    "tier": 0,
+    "rank": 480
+  },
+  {
+    "pattern": 168,
+    "percentage": 17.74,
+    "tier": 0,
+    "rank": 481
+  },
+  {
+    "pattern": 343,
+    "percentage": 17.72,
+    "tier": 0,
+    "rank": 482
+  },
+  {
+    "pattern": 848,
+    "percentage": 17.7,
+    "tier": 0,
+    "rank": 483
+  },
+  {
+    "pattern": 982,
+    "percentage": 17.7,
+    "tier": 0,
+    "rank": 484
+  },
+  {
+    "pattern": 141,
+    "percentage": 17.68,
+    "tier": 0,
+    "rank": 485
+  },
+  {
+    "pattern": 312,
+    "percentage": 17.62,
+    "tier": 0,
+    "rank": 486
+  },
+  {
+    "pattern": 354,
+    "percentage": 17.5,
+    "tier": 0,
+    "rank": 487
+  },
+  {
+    "pattern": 281,
+    "percentage": 17.43,
+    "tier": 0,
+    "rank": 488
+  },
+  {
+    "pattern": 414,
+    "percentage": 17.34,
+    "tier": 0,
+    "rank": 489
+  },
+  {
+    "pattern": 514,
+    "percentage": 17.29,
+    "tier": 0,
+    "rank": 490
+  },
+  {
+    "pattern": 850,
+    "percentage": 17.27,
+    "tier": 0,
+    "rank": 491
+  },
+  {
+    "pattern": 817,
+    "percentage": 17.24,
+    "tier": 0,
+    "rank": 492
+  },
+  {
+    "pattern": 209,
+    "percentage": 17.18,
+    "tier": 0,
+    "rank": 493
+  },
+  {
+    "pattern": 630,
+    "percentage": 17.15,
+    "tier": 0,
+    "rank": 494
+  },
+  {
+    "pattern": 204,
+    "percentage": 16.97,
+    "tier": 0,
+    "rank": 495
+  },
+  {
+    "pattern": 857,
+    "percentage": 16.87,
+    "tier": 0,
+    "rank": 496
+  },
+  {
+    "pattern": 929,
+    "percentage": 16.87,
+    "tier": 0,
+    "rank": 497
+  },
+  {
+    "pattern": 63,
+    "percentage": 16.81,
+    "tier": 0,
+    "rank": 498
+  },
+  {
+    "pattern": 437,
+    "percentage": 16.76,
+    "tier": 0,
+    "rank": 499
+  },
+  {
+    "pattern": 461,
+    "percentage": 16.75,
+    "tier": 0,
+    "rank": 500
+  },
+  {
+    "pattern": 968,
+    "percentage": 16.74,
+    "tier": 0,
+    "rank": 501
+  },
+  {
+    "pattern": 212,
+    "percentage": 16.7,
+    "tier": 0,
+    "rank": 502
+  },
+  {
+    "pattern": 527,
+    "percentage": 16.53,
+    "tier": 0,
+    "rank": 503
+  },
+  {
+    "pattern": 232,
+    "percentage": 16.44,
+    "tier": 0,
+    "rank": 504
+  },
+  {
+    "pattern": 279,
+    "percentage": 16.39,
+    "tier": 0,
+    "rank": 505
+  },
+  {
+    "pattern": 962,
+    "percentage": 16.33,
+    "tier": 0,
+    "rank": 506
+  },
+  {
+    "pattern": 933,
+    "percentage": 16.3,
+    "tier": 0,
+    "rank": 507
+  },
+  {
+    "pattern": 117,
+    "percentage": 16.26,
+    "tier": 0,
+    "rank": 508
+  },
+  {
+    "pattern": 253,
+    "percentage": 16.22,
+    "tier": 0,
+    "rank": 509
+  },
+  {
+    "pattern": 365,
+    "percentage": 16.18,
+    "tier": 0,
+    "rank": 510
+  },
+  {
+    "pattern": 67,
+    "percentage": 16.17,
+    "tier": 0,
+    "rank": 511
+  },
+  {
+    "pattern": 412,
+    "percentage": 16.13,
+    "tier": 0,
+    "rank": 512
+  },
+  {
+    "pattern": 983,
+    "percentage": 16.12,
+    "tier": 0,
+    "rank": 513
+  },
+  {
+    "pattern": 898,
+    "percentage": 16.06,
+    "tier": 0,
+    "rank": 514
+  },
+  {
+    "pattern": 535,
+    "percentage": 15.98,
+    "tier": 0,
+    "rank": 515
+  },
+  {
+    "pattern": 752,
+    "percentage": 15.9,
+    "tier": 0,
+    "rank": 516
+  },
+  {
+    "pattern": 366,
+    "percentage": 15.74,
+    "tier": 0,
+    "rank": 517
+  },
+  {
+    "pattern": 394,
+    "percentage": 15.73,
+    "tier": 0,
+    "rank": 518
+  },
+  {
+    "pattern": 80,
+    "percentage": 15.48,
+    "tier": 0,
+    "rank": 519
+  },
+  {
+    "pattern": 890,
+    "percentage": 15.45,
+    "tier": 0,
+    "rank": 520
+  },
+  {
+    "pattern": 457,
+    "percentage": 15.4,
+    "tier": 0,
+    "rank": 521
+  },
+  {
+    "pattern": 642,
+    "percentage": 15.39,
+    "tier": 0,
+    "rank": 522
+  },
+  {
+    "pattern": 591,
+    "percentage": 15.31,
+    "tier": 0,
+    "rank": 523
+  },
+  {
+    "pattern": 475,
+    "percentage": 15.28,
+    "tier": 0,
+    "rank": 524
+  },
+  {
+    "pattern": 994,
+    "percentage": 15.27,
+    "tier": 0,
+    "rank": 525
+  },
+  {
+    "pattern": 36,
+    "percentage": 15.15,
+    "tier": 0,
+    "rank": 526
+  },
+  {
+    "pattern": 40,
+    "percentage": 15.15,
+    "tier": 0,
+    "rank": 527
+  },
+  {
+    "pattern": 925,
+    "percentage": 15.14,
+    "tier": 0,
+    "rank": 528
+  },
+  {
+    "pattern": 350,
+    "percentage": 15.11,
+    "tier": 0,
+    "rank": 529
+  },
+  {
+    "pattern": 763,
+    "percentage": 15.1,
+    "tier": 0,
+    "rank": 530
+  },
+  {
+    "pattern": 356,
+    "percentage": 15.04,
+    "tier": 0,
+    "rank": 531
+  },
+  {
+    "pattern": 114,
+    "percentage": 14.91,
+    "tier": 0,
+    "rank": 532
+  },
+  {
+    "pattern": 404,
+    "percentage": 14.84,
+    "tier": 0,
+    "rank": 533
+  },
+  {
+    "pattern": 604,
+    "percentage": 14.84,
+    "tier": 0,
+    "rank": 534
+  },
+  {
+    "pattern": 760,
+    "percentage": 14.83,
+    "tier": 0,
+    "rank": 535
+  },
+  {
+    "pattern": 161,
+    "percentage": 14.66,
+    "tier": 0,
+    "rank": 536
+  },
+  {
+    "pattern": 176,
+    "percentage": 14.62,
+    "tier": 0,
+    "rank": 537
+  },
+  {
+    "pattern": 624,
+    "percentage": 14.46,
+    "tier": 0,
+    "rank": 538
+  },
+  {
+    "pattern": 801,
+    "percentage": 14.45,
+    "tier": 0,
+    "rank": 539
+  },
+  {
+    "pattern": 513,
+    "percentage": 14.44,
+    "tier": 0,
+    "rank": 540
+  },
+  {
+    "pattern": 599,
+    "percentage": 14.4,
+    "tier": 0,
+    "rank": 541
+  },
+  {
+    "pattern": 35,
+    "percentage": 14.21,
+    "tier": 0,
+    "rank": 542
+  },
+  {
+    "pattern": 136,
+    "percentage": 14.02,
+    "tier": 0,
+    "rank": 543
+  },
+  {
+    "pattern": 395,
+    "percentage": 13.94,
+    "tier": 0,
+    "rank": 544
+  },
+  {
+    "pattern": 863,
+    "percentage": 13.94,
+    "tier": 0,
+    "rank": 545
+  },
+  {
+    "pattern": 998,
+    "percentage": 13.94,
+    "tier": 0,
+    "rank": 546
+  },
+  {
+    "pattern": 651,
+    "percentage": 13.93,
+    "tier": 0,
+    "rank": 547
+  },
+  {
+    "pattern": 358,
+    "percentage": 13.84,
+    "tier": 0,
+    "rank": 548
+  },
+  {
+    "pattern": 774,
+    "percentage": 13.78,
+    "tier": 0,
+    "rank": 549
+  },
+  {
+    "pattern": 331,
+    "percentage": 13.66,
+    "tier": 0,
+    "rank": 550
+  },
+  {
+    "pattern": 951,
+    "percentage": 13.65,
+    "tier": 0,
+    "rank": 551
+  },
+  {
+    "pattern": 140,
+    "percentage": 13.62,
+    "tier": 0,
+    "rank": 552
+  },
+  {
+    "pattern": 972,
+    "percentage": 13.51,
+    "tier": 0,
+    "rank": 553
+  },
+  {
+    "pattern": 843,
+    "percentage": 13.48,
+    "tier": 0,
+    "rank": 554
+  },
+  {
+    "pattern": 623,
+    "percentage": 13.42,
+    "tier": 0,
+    "rank": 555
+  },
+  {
+    "pattern": 121,
+    "percentage": 13.37,
+    "tier": 0,
+    "rank": 556
+  },
+  {
+    "pattern": 502,
+    "percentage": 13.33,
+    "tier": 0,
+    "rank": 557
+  },
+  {
+    "pattern": 454,
+    "percentage": 13.32,
+    "tier": 0,
+    "rank": 558
+  },
+  {
+    "pattern": 745,
+    "percentage": 13.32,
+    "tier": 0,
+    "rank": 559
+  },
+  {
+    "pattern": 337,
+    "percentage": 13.25,
+    "tier": 0,
+    "rank": 560
+  },
+  {
+    "pattern": 72,
+    "percentage": 13.23,
+    "tier": 0,
+    "rank": 561
+  },
+  {
+    "pattern": 492,
+    "percentage": 13.19,
+    "tier": 0,
+    "rank": 562
+  },
+  {
+    "pattern": 367,
+    "percentage": 13,
+    "tier": 0,
+    "rank": 563
+  },
+  {
+    "pattern": 316,
+    "percentage": 12.97,
+    "tier": 0,
+    "rank": 564
+  },
+  {
+    "pattern": 704,
+    "percentage": 12.84,
+    "tier": 0,
+    "rank": 565
+  },
+  {
+    "pattern": 361,
+    "percentage": 12.83,
+    "tier": 0,
+    "rank": 566
+  },
+  {
+    "pattern": 864,
+    "percentage": 12.83,
+    "tier": 0,
+    "rank": 567
+  },
+  {
+    "pattern": 876,
+    "percentage": 12.8,
+    "tier": 0,
+    "rank": 568
+  },
+  {
+    "pattern": 910,
+    "percentage": 12.63,
+    "tier": 0,
+    "rank": 569
+  },
+  {
+    "pattern": 446,
+    "percentage": 12.61,
+    "tier": 0,
+    "rank": 570
+  },
+  {
+    "pattern": 299,
+    "percentage": 12.59,
+    "tier": 0,
+    "rank": 571
+  },
+  {
+    "pattern": 406,
+    "percentage": 12.49,
+    "tier": 0,
+    "rank": 572
+  },
+  {
+    "pattern": 347,
+    "percentage": 12.42,
+    "tier": 0,
+    "rank": 573
+  },
+  {
+    "pattern": 684,
+    "percentage": 12.39,
+    "tier": 0,
+    "rank": 574
+  },
+  {
+    "pattern": 342,
+    "percentage": 12.37,
+    "tier": 0,
+    "rank": 575
+  },
+  {
+    "pattern": 251,
+    "percentage": 12.35,
+    "tier": 0,
+    "rank": 576
+  },
+  {
+    "pattern": 257,
+    "percentage": 12.31,
+    "tier": 0,
+    "rank": 577
+  },
+  {
+    "pattern": 897,
+    "percentage": 12.25,
+    "tier": 0,
+    "rank": 578
+  },
+  {
+    "pattern": 301,
+    "percentage": 12.22,
+    "tier": 0,
+    "rank": 579
+  },
+  {
+    "pattern": 184,
+    "percentage": 12.14,
+    "tier": 0,
+    "rank": 580
+  },
+  {
+    "pattern": 206,
+    "percentage": 12.14,
+    "tier": 0,
+    "rank": 581
+  },
+  {
+    "pattern": 142,
+    "percentage": 11.99,
+    "tier": 0,
+    "rank": 582
+  },
+  {
+    "pattern": 304,
+    "percentage": 11.96,
+    "tier": 0,
+    "rank": 583
+  },
+  {
+    "pattern": 729,
+    "percentage": 11.9,
+    "tier": 0,
+    "rank": 584
+  },
+  {
+    "pattern": 479,
+    "percentage": 11.77,
+    "tier": 0,
+    "rank": 585
+  },
+  {
+    "pattern": 43,
+    "percentage": 11.7,
+    "tier": 0,
+    "rank": 586
+  },
+  {
+    "pattern": 757,
+    "percentage": 11.66,
+    "tier": 0,
+    "rank": 587
+  },
+  {
+    "pattern": 292,
+    "percentage": 11.59,
+    "tier": 0,
+    "rank": 588
+  },
+  {
+    "pattern": 741,
+    "percentage": 11.59,
+    "tier": 0,
+    "rank": 589
+  },
+  {
+    "pattern": 715,
+    "percentage": 11.56,
+    "tier": 0,
+    "rank": 590
+  },
+  {
+    "pattern": 892,
+    "percentage": 11.51,
+    "tier": 0,
+    "rank": 591
+  },
+  {
+    "pattern": 192,
+    "percentage": 11.5,
+    "tier": 0,
+    "rank": 592
+  },
+  {
+    "pattern": 511,
+    "percentage": 11.47,
+    "tier": 0,
+    "rank": 593
+  },
+  {
+    "pattern": 210,
+    "percentage": 11.45,
+    "tier": 0,
+    "rank": 594
+  },
+  {
+    "pattern": 340,
+    "percentage": 11.35,
+    "tier": 0,
+    "rank": 595
+  },
+  {
+    "pattern": 768,
+    "percentage": 11.35,
+    "tier": 0,
+    "rank": 596
+  },
+  {
+    "pattern": 97,
+    "percentage": 11.28,
+    "tier": 0,
+    "rank": 597
+  },
+  {
+    "pattern": 493,
+    "percentage": 11.17,
+    "tier": 0,
+    "rank": 598
+  },
+  {
+    "pattern": 799,
+    "percentage": 11.12,
+    "tier": 0,
+    "rank": 599
+  },
+  {
+    "pattern": 197,
+    "percentage": 11.11,
+    "tier": 0,
+    "rank": 600
+  },
+  {
+    "pattern": 957,
+    "percentage": 11.1,
+    "tier": 0,
+    "rank": 601
+  },
+  {
+    "pattern": 735,
+    "percentage": 10.83,
+    "tier": 0,
+    "rank": 602
+  },
+  {
+    "pattern": 818,
+    "percentage": 10.83,
+    "tier": 0,
+    "rank": 603
+  },
+  {
+    "pattern": 677,
+    "percentage": 10.82,
+    "tier": 0,
+    "rank": 604
+  },
+  {
+    "pattern": 920,
+    "percentage": 10.76,
+    "tier": 0,
+    "rank": 605
+  },
+  {
+    "pattern": 23,
+    "percentage": 10.7,
+    "tier": 0,
+    "rank": 606
+  },
+  {
+    "pattern": 980,
+    "percentage": 10.69,
+    "tier": 0,
+    "rank": 607
+  },
+  {
+    "pattern": 440,
+    "percentage": 10.45,
+    "tier": 0,
+    "rank": 608
+  },
+  {
+    "pattern": 824,
+    "percentage": 10.41,
+    "tier": 0,
+    "rank": 609
+  },
+  {
+    "pattern": 633,
+    "percentage": 10.37,
+    "tier": 0,
+    "rank": 610
+  },
+  {
+    "pattern": 15,
+    "percentage": 10.35,
+    "tier": 0,
+    "rank": 611
+  },
+  {
+    "pattern": 162,
+    "percentage": 10.33,
+    "tier": 0,
+    "rank": 612
+  },
+  {
+    "pattern": 600,
+    "percentage": 10.29,
+    "tier": 0,
+    "rank": 613
+  },
+  {
+    "pattern": 866,
+    "percentage": 10.25,
+    "tier": 0,
+    "rank": 614
+  },
+  {
+    "pattern": 191,
+    "percentage": 10.2,
+    "tier": 0,
+    "rank": 615
+  },
+  {
+    "pattern": 816,
+    "percentage": 10.2,
+    "tier": 0,
+    "rank": 616
+  },
+  {
+    "pattern": 992,
+    "percentage": 10.2,
+    "tier": 0,
+    "rank": 617
+  },
+  {
+    "pattern": 743,
+    "percentage": 10.16,
+    "tier": 0,
+    "rank": 618
+  },
+  {
+    "pattern": 533,
+    "percentage": 10.1,
+    "tier": 0,
+    "rank": 619
+  },
+  {
+    "pattern": 750,
+    "percentage": 10,
+    "tier": 0,
+    "rank": 620
+  },
+  {
+    "pattern": 783,
+    "percentage": 9.55,
+    "tier": 0,
+    "rank": 621
+  },
+  {
+    "pattern": 3,
+    "percentage": 9.31,
+    "tier": 0,
+    "rank": 622
+  },
+  {
+    "pattern": 932,
+    "percentage": 9.31,
+    "tier": 0,
+    "rank": 623
+  },
+  {
+    "pattern": 592,
+    "percentage": 9.3,
+    "tier": 0,
+    "rank": 624
+  },
+  {
+    "pattern": 558,
+    "percentage": 9.27,
+    "tier": 0,
+    "rank": 625
+  },
+  {
+    "pattern": 481,
+    "percentage": 9.14,
+    "tier": 0,
+    "rank": 626
+  },
+  {
+    "pattern": 233,
+    "percentage": 9.11,
+    "tier": 0,
+    "rank": 627
+  },
+  {
+    "pattern": 573,
+    "percentage": 9,
+    "tier": 0,
+    "rank": 628
+  },
+  {
+    "pattern": 29,
+    "percentage": 8.94,
+    "tier": 0,
+    "rank": 629
+  },
+  {
+    "pattern": 336,
+    "percentage": 8.93,
+    "tier": 0,
+    "rank": 630
+  },
+  {
+    "pattern": 819,
+    "percentage": 8.92,
+    "tier": 0,
+    "rank": 631
+  },
+  {
+    "pattern": 871,
+    "percentage": 8.79,
+    "tier": 0,
+    "rank": 632
+  },
+  {
+    "pattern": 594,
+    "percentage": 8.77,
+    "tier": 0,
+    "rank": 633
+  },
+  {
+    "pattern": 663,
+    "percentage": 8.74,
+    "tier": 0,
+    "rank": 634
+  },
+  {
+    "pattern": 719,
+    "percentage": 8.73,
+    "tier": 0,
+    "rank": 635
+  },
+  {
+    "pattern": 739,
+    "percentage": 8.57,
+    "tier": 0,
+    "rank": 636
+  },
+  {
+    "pattern": 296,
+    "percentage": 8.52,
+    "tier": 0,
+    "rank": 637
+  },
+  {
+    "pattern": 730,
+    "percentage": 8.48,
+    "tier": 0,
+    "rank": 638
+  },
+  {
+    "pattern": 911,
+    "percentage": 8.44,
+    "tier": 0,
+    "rank": 639
+  },
+  {
+    "pattern": 678,
+    "percentage": 8.42,
+    "tier": 0,
+    "rank": 640
+  },
+  {
+    "pattern": 384,
+    "percentage": 8.41,
+    "tier": 0,
+    "rank": 641
+  },
+  {
+    "pattern": 666,
+    "percentage": 8.41,
+    "tier": 0,
+    "rank": 642
+  },
+  {
+    "pattern": 979,
+    "percentage": 8.38,
+    "tier": 0,
+    "rank": 643
+  },
+  {
+    "pattern": 55,
+    "percentage": 8.35,
+    "tier": 0,
+    "rank": 644
+  },
+  {
+    "pattern": 926,
+    "percentage": 8.31,
+    "tier": 0,
+    "rank": 645
+  },
+  {
+    "pattern": 313,
+    "percentage": 8.26,
+    "tier": 0,
+    "rank": 646
+  },
+  {
+    "pattern": 345,
+    "percentage": 8.23,
+    "tier": 0,
+    "rank": 647
+  },
+  {
+    "pattern": 569,
+    "percentage": 8.2,
+    "tier": 0,
+    "rank": 648
+  },
+  {
+    "pattern": 636,
+    "percentage": 8.18,
+    "tier": 0,
+    "rank": 649
+  },
+  {
+    "pattern": 855,
+    "percentage": 8.14,
+    "tier": 0,
+    "rank": 650
+  },
+  {
+    "pattern": 95,
+    "percentage": 8.13,
+    "tier": 0,
+    "rank": 651
+  },
+  {
+    "pattern": 88,
+    "percentage": 8.12,
+    "tier": 0,
+    "rank": 652
+  },
+  {
+    "pattern": 764,
+    "percentage": 8.12,
+    "tier": 0,
+    "rank": 653
+  },
+  {
+    "pattern": 726,
+    "percentage": 8.08,
+    "tier": 0,
+    "rank": 654
+  },
+  {
+    "pattern": 903,
+    "percentage": 7.95,
+    "tier": 0,
+    "rank": 655
+  },
+  {
+    "pattern": 462,
+    "percentage": 7.94,
+    "tier": 0,
+    "rank": 656
+  },
+  {
+    "pattern": 969,
+    "percentage": 7.88,
+    "tier": 0,
+    "rank": 657
+  },
+  {
+    "pattern": 835,
+    "percentage": 7.86,
+    "tier": 0,
+    "rank": 658
+  },
+  {
+    "pattern": 614,
+    "percentage": 7.73,
+    "tier": 0,
+    "rank": 659
+  },
+  {
+    "pattern": 785,
+    "percentage": 7.65,
+    "tier": 0,
+    "rank": 660
+  },
+  {
+    "pattern": 266,
+    "percentage": 7.62,
+    "tier": 0,
+    "rank": 661
+  },
+  {
+    "pattern": 589,
+    "percentage": 7.62,
+    "tier": 0,
+    "rank": 662
+  },
+  {
+    "pattern": 758,
+    "percentage": 7.48,
+    "tier": 0,
+    "rank": 663
+  },
+  {
+    "pattern": 261,
+    "percentage": 7.43,
+    "tier": 0,
+    "rank": 664
+  },
+  {
+    "pattern": 549,
+    "percentage": 7.38,
+    "tier": 0,
+    "rank": 665
+  },
+  {
+    "pattern": 737,
+    "percentage": 7.36,
+    "tier": 0,
+    "rank": 666
+  },
+  {
+    "pattern": 723,
+    "percentage": 7.27,
+    "tier": 0,
+    "rank": 667
+  },
+  {
+    "pattern": 778,
+    "percentage": 7.27,
+    "tier": 0,
+    "rank": 668
+  },
+  {
+    "pattern": 452,
+    "percentage": 7.23,
+    "tier": 0,
+    "rank": 669
+  },
+  {
+    "pattern": 861,
+    "percentage": 7.21,
+    "tier": 0,
+    "rank": 670
+  },
+  {
+    "pattern": 409,
+    "percentage": 7.2,
+    "tier": 0,
+    "rank": 671
+  },
+  {
+    "pattern": 190,
+    "percentage": 7.11,
+    "tier": 0,
+    "rank": 672
+  },
+  {
+    "pattern": 319,
+    "percentage": 6.99,
+    "tier": 0,
+    "rank": 673
+  },
+  {
+    "pattern": 102,
+    "percentage": 6.96,
+    "tier": 0,
+    "rank": 674
+  },
+  {
+    "pattern": 685,
+    "percentage": 6.91,
+    "tier": 0,
+    "rank": 675
+  },
+  {
+    "pattern": 83,
+    "percentage": 6.9,
+    "tier": 0,
+    "rank": 676
+  },
+  {
+    "pattern": 482,
+    "percentage": 6.89,
+    "tier": 0,
+    "rank": 677
+  },
+  {
+    "pattern": 133,
+    "percentage": 6.84,
+    "tier": 0,
+    "rank": 678
+  },
+  {
+    "pattern": 219,
+    "percentage": 6.74,
+    "tier": 0,
+    "rank": 679
+  },
+  {
+    "pattern": 22,
+    "percentage": 6.65,
+    "tier": 0,
+    "rank": 680
+  },
+  {
+    "pattern": 71,
+    "percentage": 6.64,
+    "tier": 0,
+    "rank": 681
+  },
+  {
+    "pattern": 519,
+    "percentage": 6.6,
+    "tier": 0,
+    "rank": 682
+  },
+  {
+    "pattern": 568,
+    "percentage": 6.59,
+    "tier": 0,
+    "rank": 683
+  },
+  {
+    "pattern": 956,
+    "percentage": 6.58,
+    "tier": 0,
+    "rank": 684
+  },
+  {
+    "pattern": 297,
+    "percentage": 6.55,
+    "tier": 0,
+    "rank": 685
+  },
+  {
+    "pattern": 784,
+    "percentage": 6.53,
+    "tier": 0,
+    "rank": 686
+  },
+  {
+    "pattern": 845,
+    "percentage": 6.52,
+    "tier": 0,
+    "rank": 687
+  },
+  {
+    "pattern": 169,
+    "percentage": 6.3,
+    "tier": 0,
+    "rank": 688
+  },
+  {
+    "pattern": 984,
+    "percentage": 6.3,
+    "tier": 0,
+    "rank": 689
+  },
+  {
+    "pattern": 390,
+    "percentage": 6.29,
+    "tier": 0,
+    "rank": 690
+  },
+  {
+    "pattern": 611,
+    "percentage": 6.29,
+    "tier": 0,
+    "rank": 691
+  },
+  {
+    "pattern": 249,
+    "percentage": 6.26,
+    "tier": 0,
+    "rank": 692
+  },
+  {
+    "pattern": 415,
+    "percentage": 6.25,
+    "tier": 0,
+    "rank": 693
+  },
+  {
+    "pattern": 607,
+    "percentage": 6.23,
+    "tier": 0,
+    "rank": 694
+  },
+  {
+    "pattern": 554,
+    "percentage": 6.22,
+    "tier": 0,
+    "rank": 695
+  },
+  {
+    "pattern": 574,
+    "percentage": 6.11,
+    "tier": 0,
+    "rank": 696
+  },
+  {
+    "pattern": 484,
+    "percentage": 6.03,
+    "tier": 0,
+    "rank": 697
+  },
+  {
+    "pattern": 668,
+    "percentage": 6.03,
+    "tier": 0,
+    "rank": 698
+  },
+  {
+    "pattern": 873,
+    "percentage": 6.01,
+    "tier": 0,
+    "rank": 699
+  },
+  {
+    "pattern": 590,
+    "percentage": 5.96,
+    "tier": 0,
+    "rank": 700
+  },
+  {
+    "pattern": 84,
+    "percentage": 5.92,
+    "tier": 0,
+    "rank": 701
+  },
+  {
+    "pattern": 58,
+    "percentage": 5.82,
+    "tier": 0,
+    "rank": 702
+  },
+  {
+    "pattern": 137,
+    "percentage": 5.8,
+    "tier": 0,
+    "rank": 703
+  },
+  {
+    "pattern": 270,
+    "percentage": 5.76,
+    "tier": 0,
+    "rank": 704
+  },
+  {
+    "pattern": 687,
+    "percentage": 5.75,
+    "tier": 0,
+    "rank": 705
+  },
+  {
+    "pattern": 258,
+    "percentage": 5.71,
+    "tier": 0,
+    "rank": 706
+  },
+  {
+    "pattern": 954,
+    "percentage": 5.7,
+    "tier": 0,
+    "rank": 707
+  },
+  {
+    "pattern": 443,
+    "percentage": 5.68,
+    "tier": 0,
+    "rank": 708
+  },
+  {
+    "pattern": 329,
+    "percentage": 5.62,
+    "tier": 0,
+    "rank": 709
+  },
+  {
+    "pattern": 271,
+    "percentage": 5.61,
+    "tier": 0,
+    "rank": 710
+  },
+  {
+    "pattern": 94,
+    "percentage": 5.53,
+    "tier": 0,
+    "rank": 711
+  },
+  {
+    "pattern": 654,
+    "percentage": 5.51,
+    "tier": 0,
+    "rank": 712
+  },
+  {
+    "pattern": 467,
+    "percentage": 5.48,
+    "tier": 0,
+    "rank": 713
+  },
+  {
+    "pattern": 581,
+    "percentage": 5.47,
+    "tier": 0,
+    "rank": 714
+  },
+  {
+    "pattern": 234,
+    "percentage": 5.42,
+    "tier": 0,
+    "rank": 715
+  },
+  {
+    "pattern": 456,
+    "percentage": 5.41,
+    "tier": 0,
+    "rank": 716
+  },
+  {
+    "pattern": 18,
+    "percentage": 5.39,
+    "tier": 0,
+    "rank": 717
+  },
+  {
+    "pattern": 734,
+    "percentage": 5.39,
+    "tier": 0,
+    "rank": 718
+  },
+  {
+    "pattern": 131,
+    "percentage": 5.31,
+    "tier": 0,
+    "rank": 719
+  },
+  {
+    "pattern": 349,
+    "percentage": 5.29,
+    "tier": 0,
+    "rank": 720
+  },
+  {
+    "pattern": 516,
+    "percentage": 5.15,
+    "tier": 0,
+    "rank": 721
+  },
+  {
+    "pattern": 287,
+    "percentage": 4.97,
+    "tier": 0,
+    "rank": 722
+  },
+  {
+    "pattern": 883,
+    "percentage": 4.96,
+    "tier": 0,
+    "rank": 723
+  },
+  {
+    "pattern": 710,
+    "percentage": 4.95,
+    "tier": 0,
+    "rank": 724
+  },
+  {
+    "pattern": 579,
+    "percentage": 4.92,
+    "tier": 0,
+    "rank": 725
+  },
+  {
+    "pattern": 744,
+    "percentage": 4.92,
+    "tier": 0,
+    "rank": 726
+  },
+  {
+    "pattern": 921,
+    "percentage": 4.84,
+    "tier": 0,
+    "rank": 727
+  },
+  {
+    "pattern": 491,
+    "percentage": 4.82,
+    "tier": 0,
+    "rank": 728
+  },
+  {
+    "pattern": 307,
+    "percentage": 4.79,
+    "tier": 0,
+    "rank": 729
+  },
+  {
+    "pattern": 419,
+    "percentage": 4.78,
+    "tier": 0,
+    "rank": 730
+  },
+  {
+    "pattern": 324,
+    "percentage": 4.72,
+    "tier": 0,
+    "rank": 731
+  },
+  {
+    "pattern": 163,
+    "percentage": 4.7,
+    "tier": 0,
+    "rank": 732
+  },
+  {
+    "pattern": 274,
+    "percentage": 4.68,
+    "tier": 0,
+    "rank": 733
+  },
+  {
+    "pattern": 315,
+    "percentage": 4.68,
+    "tier": 0,
+    "rank": 734
+  },
+  {
+    "pattern": 272,
+    "percentage": 4.66,
+    "tier": 0,
+    "rank": 735
+  },
+  {
+    "pattern": 208,
+    "percentage": 4.54,
+    "tier": 0,
+    "rank": 736
+  },
+  {
+    "pattern": 756,
+    "percentage": 4.53,
+    "tier": 0,
+    "rank": 737
+  },
+  {
+    "pattern": 603,
+    "percentage": 4.51,
+    "tier": 0,
+    "rank": 738
+  },
+  {
+    "pattern": 947,
+    "percentage": 4.5,
+    "tier": 0,
+    "rank": 739
+  },
+  {
+    "pattern": 47,
+    "percentage": 4.49,
+    "tier": 0,
+    "rank": 740
+  },
+  {
+    "pattern": 665,
+    "percentage": 4.47,
+    "tier": 0,
+    "rank": 741
+  },
+  {
+    "pattern": 45,
+    "percentage": 4.46,
+    "tier": 0,
+    "rank": 742
+  },
+  {
+    "pattern": 540,
+    "percentage": 4.45,
+    "tier": 0,
+    "rank": 743
+  },
+  {
+    "pattern": 229,
+    "percentage": 4.43,
+    "tier": 0,
+    "rank": 744
+  },
+  {
+    "pattern": 86,
+    "percentage": 4.4,
+    "tier": 0,
+    "rank": 745
+  },
+  {
+    "pattern": 241,
+    "percentage": 4.4,
+    "tier": 0,
+    "rank": 746
+  },
+  {
+    "pattern": 528,
+    "percentage": 4.4,
+    "tier": 0,
+    "rank": 747
+  },
+  {
+    "pattern": 93,
+    "percentage": 4.39,
+    "tier": 0,
+    "rank": 748
+  },
+  {
+    "pattern": 449,
+    "percentage": 4.32,
+    "tier": 0,
+    "rank": 749
+  },
+  {
+    "pattern": 268,
+    "percentage": 4.29,
+    "tier": 0,
+    "rank": 750
+  },
+  {
+    "pattern": 355,
+    "percentage": 4.29,
+    "tier": 0,
+    "rank": 751
+  },
+  {
+    "pattern": 512,
+    "percentage": 4.24,
+    "tier": 0,
+    "rank": 752
+  },
+  {
+    "pattern": 115,
+    "percentage": 4.23,
+    "tier": 0,
+    "rank": 753
+  },
+  {
+    "pattern": 718,
+    "percentage": 4.2,
+    "tier": 0,
+    "rank": 754
+  },
+  {
+    "pattern": 252,
+    "percentage": 4.19,
+    "tier": 0,
+    "rank": 755
+  },
+  {
+    "pattern": 224,
+    "percentage": 4.06,
+    "tier": 0,
+    "rank": 756
+  },
+  {
+    "pattern": 123,
+    "percentage": 3.97,
+    "tier": 0,
+    "rank": 757
+  },
+  {
+    "pattern": 289,
+    "percentage": 3.88,
+    "tier": 0,
+    "rank": 758
+  },
+  {
+    "pattern": 583,
+    "percentage": 3.87,
+    "tier": 0,
+    "rank": 759
+  },
+  {
+    "pattern": 385,
+    "percentage": 3.85,
+    "tier": 0,
+    "rank": 760
+  },
+  {
+    "pattern": 934,
+    "percentage": 3.82,
+    "tier": 0,
+    "rank": 761
+  },
+  {
+    "pattern": 572,
+    "percentage": 3.77,
+    "tier": 0,
+    "rank": 762
+  },
+  {
+    "pattern": 291,
+    "percentage": 3.75,
+    "tier": 0,
+    "rank": 763
+  },
+  {
+    "pattern": 701,
+    "percentage": 3.68,
+    "tier": 0,
+    "rank": 764
+  },
+  {
+    "pattern": 459,
+    "percentage": 3.66,
+    "tier": 0,
+    "rank": 765
+  },
+  {
+    "pattern": 167,
+    "percentage": 3.64,
+    "tier": 0,
+    "rank": 766
+  },
+  {
+    "pattern": 288,
+    "percentage": 3.64,
+    "tier": 0,
+    "rank": 767
+  },
+  {
+    "pattern": 327,
+    "percentage": 3.62,
+    "tier": 0,
+    "rank": 768
+  },
+  {
+    "pattern": 495,
+    "percentage": 3.58,
+    "tier": 0,
+    "rank": 769
+  },
+  {
+    "pattern": 24,
+    "percentage": 3.57,
+    "tier": 0,
+    "rank": 770
+  },
+  {
+    "pattern": 320,
+    "percentage": 3.54,
+    "tier": 0,
+    "rank": 771
+  },
+  {
+    "pattern": 193,
+    "percentage": 3.52,
+    "tier": 0,
+    "rank": 772
+  },
+  {
+    "pattern": 75,
+    "percentage": 3.5,
+    "tier": 0,
+    "rank": 773
+  },
+  {
+    "pattern": 374,
+    "percentage": 3.44,
+    "tier": 0,
+    "rank": 774
+  },
+  {
+    "pattern": 601,
+    "percentage": 3.44,
+    "tier": 0,
+    "rank": 775
+  },
+  {
+    "pattern": 392,
+    "percentage": 3.42,
+    "tier": 0,
+    "rank": 776
+  },
+  {
+    "pattern": 990,
+    "percentage": 3.3,
+    "tier": 0,
+    "rank": 777
+  },
+  {
+    "pattern": 378,
+    "percentage": 3.28,
+    "tier": 0,
+    "rank": 778
+  },
+  {
+    "pattern": 650,
+    "percentage": 3.24,
+    "tier": 0,
+    "rank": 779
+  },
+  {
+    "pattern": 520,
+    "percentage": 3.23,
+    "tier": 0,
+    "rank": 780
+  },
+  {
+    "pattern": 759,
+    "percentage": 3.21,
+    "tier": 0,
+    "rank": 781
+  },
+  {
+    "pattern": 12,
+    "percentage": 3.2,
+    "tier": 0,
+    "rank": 782
+  },
+  {
+    "pattern": 731,
+    "percentage": 3.2,
+    "tier": 0,
+    "rank": 783
+  },
+  {
+    "pattern": 158,
+    "percentage": 3.17,
+    "tier": 0,
+    "rank": 784
+  },
+  {
+    "pattern": 660,
+    "percentage": 3.16,
+    "tier": 0,
+    "rank": 785
+  },
+  {
+    "pattern": 923,
+    "percentage": 3.11,
+    "tier": 0,
+    "rank": 786
+  },
+  {
+    "pattern": 99,
+    "percentage": 3.1,
+    "tier": 0,
+    "rank": 787
+  },
+  {
+    "pattern": 62,
+    "percentage": 3.09,
+    "tier": 0,
+    "rank": 788
+  },
+  {
+    "pattern": 410,
+    "percentage": 3.09,
+    "tier": 0,
+    "rank": 789
+  },
+  {
+    "pattern": 504,
+    "percentage": 3.09,
+    "tier": 0,
+    "rank": 790
+  },
+  {
+    "pattern": 518,
+    "percentage": 3.05,
+    "tier": 0,
+    "rank": 791
+  },
+  {
+    "pattern": 411,
+    "percentage": 3.02,
+    "tier": 0,
+    "rank": 792
+  },
+  {
+    "pattern": 858,
+    "percentage": 3.02,
+    "tier": 0,
+    "rank": 793
+  },
+  {
+    "pattern": 565,
+    "percentage": 2.92,
+    "tier": 0,
+    "rank": 794
+  },
+  {
+    "pattern": 498,
+    "percentage": 2.89,
+    "tier": 0,
+    "rank": 795
+  },
+  {
+    "pattern": 931,
+    "percentage": 2.86,
+    "tier": 0,
+    "rank": 796
+  },
+  {
+    "pattern": 408,
+    "percentage": 2.82,
+    "tier": 0,
+    "rank": 797
+  },
+  {
+    "pattern": 786,
+    "percentage": 2.82,
+    "tier": 0,
+    "rank": 798
+  },
+  {
+    "pattern": 973,
+    "percentage": 2.79,
+    "tier": 0,
+    "rank": 799
+  },
+  {
+    "pattern": 671,
+    "percentage": 2.78,
+    "tier": 0,
+    "rank": 800
+  },
+  {
+    "pattern": 186,
+    "percentage": 2.76,
+    "tier": 0,
+    "rank": 801
+  },
+  {
+    "pattern": 610,
+    "percentage": 2.76,
+    "tier": 0,
+    "rank": 802
+  },
+  {
+    "pattern": 576,
+    "percentage": 2.7,
+    "tier": 0,
+    "rank": 803
+  },
+  {
+    "pattern": 649,
+    "percentage": 2.69,
+    "tier": 0,
+    "rank": 804
+  },
+  {
+    "pattern": 680,
+    "percentage": 2.69,
+    "tier": 0,
+    "rank": 805
+  },
+  {
+    "pattern": 779,
+    "percentage": 2.64,
+    "tier": 0,
+    "rank": 806
+  },
+  {
+    "pattern": 353,
+    "percentage": 2.61,
+    "tier": 0,
+    "rank": 807
+  },
+  {
+    "pattern": 531,
+    "percentage": 2.61,
+    "tier": 0,
+    "rank": 808
+  },
+  {
+    "pattern": 49,
+    "percentage": 2.56,
+    "tier": 0,
+    "rank": 809
+  },
+  {
+    "pattern": 560,
+    "percentage": 2.56,
+    "tier": 0,
+    "rank": 810
+  },
+  {
+    "pattern": 792,
+    "percentage": 2.53,
+    "tier": 0,
+    "rank": 811
+  },
+  {
+    "pattern": 211,
+    "percentage": 2.5,
+    "tier": 0,
+    "rank": 812
+  },
+  {
+    "pattern": 113,
+    "percentage": 2.45,
+    "tier": 0,
+    "rank": 813
+  },
+  {
+    "pattern": 646,
+    "percentage": 2.45,
+    "tier": 0,
+    "rank": 814
+  },
+  {
+    "pattern": 33,
+    "percentage": 2.41,
+    "tier": 0,
+    "rank": 815
+  },
+  {
+    "pattern": 403,
+    "percentage": 2.37,
+    "tier": 0,
+    "rank": 816
+  },
+  {
+    "pattern": 300,
+    "percentage": 2.31,
+    "tier": 0,
+    "rank": 817
+  },
+  {
+    "pattern": 188,
+    "percentage": 2.3,
+    "tier": 0,
+    "rank": 818
+  },
+  {
+    "pattern": 986,
+    "percentage": 2.28,
+    "tier": 0,
+    "rank": 819
+  },
+  {
+    "pattern": 999,
+    "percentage": 2.24,
+    "tier": 0,
+    "rank": 820
+  },
+  {
+    "pattern": 451,
+    "percentage": 2.21,
+    "tier": 0,
+    "rank": 821
+  },
+  {
+    "pattern": 596,
+    "percentage": 2.21,
+    "tier": 0,
+    "rank": 822
+  },
+  {
+    "pattern": 386,
+    "percentage": 2.19,
+    "tier": 0,
+    "rank": 823
+  },
+  {
+    "pattern": 326,
+    "percentage": 2.11,
+    "tier": 0,
+    "rank": 824
+  },
+  {
+    "pattern": 904,
+    "percentage": 2.07,
+    "tier": 0,
+    "rank": 825
+  },
+  {
+    "pattern": 658,
+    "percentage": 2.05,
+    "tier": 0,
+    "rank": 826
+  },
+  {
+    "pattern": 445,
+    "percentage": 2.04,
+    "tier": 0,
+    "rank": 827
+  },
+  {
+    "pattern": 672,
+    "percentage": 2.02,
+    "tier": 0,
+    "rank": 828
+  },
+  {
+    "pattern": 59,
+    "percentage": 1.99,
+    "tier": 0,
+    "rank": 829
+  },
+  {
+    "pattern": 882,
+    "percentage": 1.99,
+    "tier": 0,
+    "rank": 830
+  },
+  {
+    "pattern": 716,
+    "percentage": 1.95,
+    "tier": 0,
+    "rank": 831
+  },
+  {
+    "pattern": 100,
+    "percentage": 1.92,
+    "tier": 0,
+    "rank": 832
+  },
+  {
+    "pattern": 562,
+    "percentage": 1.9,
+    "tier": 0,
+    "rank": 833
+  },
+  {
+    "pattern": 551,
+    "percentage": 1.87,
+    "tier": 0,
+    "rank": 834
+  },
+  {
+    "pattern": 294,
+    "percentage": 1.85,
+    "tier": 0,
+    "rank": 835
+  },
+  {
+    "pattern": 706,
+    "percentage": 1.83,
+    "tier": 0,
+    "rank": 836
+  },
+  {
+    "pattern": 712,
+    "percentage": 1.81,
+    "tier": 0,
+    "rank": 837
+  },
+  {
+    "pattern": 621,
+    "percentage": 1.8,
+    "tier": 0,
+    "rank": 838
+  },
+  {
+    "pattern": 761,
+    "percentage": 1.74,
+    "tier": 0,
+    "rank": 839
+  },
+  {
+    "pattern": 247,
+    "percentage": 1.71,
+    "tier": 0,
+    "rank": 840
+  },
+  {
+    "pattern": 963,
+    "percentage": 1.63,
+    "tier": 0,
+    "rank": 841
+  },
+  {
+    "pattern": 44,
+    "percentage": 1.6,
+    "tier": 0,
+    "rank": 842
+  },
+  {
+    "pattern": 416,
+    "percentage": 1.58,
+    "tier": 0,
+    "rank": 843
+  },
+  {
+    "pattern": 952,
+    "percentage": 1.57,
+    "tier": 0,
+    "rank": 844
+  },
+  {
+    "pattern": 593,
+    "percentage": 1.54,
+    "tier": 0,
+    "rank": 845
+  },
+  {
+    "pattern": 508,
+    "percentage": 1.49,
+    "tier": 0,
+    "rank": 846
+  },
+  {
+    "pattern": 90,
+    "percentage": 1.47,
+    "tier": 0,
+    "rank": 847
+  },
+  {
+    "pattern": 550,
+    "percentage": 1.47,
+    "tier": 0,
+    "rank": 848
+  },
+  {
+    "pattern": 537,
+    "percentage": 1.43,
+    "tier": 0,
+    "rank": 849
+  },
+  {
+    "pattern": 619,
+    "percentage": 1.43,
+    "tier": 0,
+    "rank": 850
+  },
+  {
+    "pattern": 227,
+    "percentage": 1.36,
+    "tier": 0,
+    "rank": 851
+  },
+  {
+    "pattern": 524,
+    "percentage": 1.32,
+    "tier": 0,
+    "rank": 852
+  },
+  {
+    "pattern": 751,
+    "percentage": 1.28,
+    "tier": 0,
+    "rank": 853
+  },
+  {
+    "pattern": 245,
+    "percentage": 1.25,
+    "tier": 0,
+    "rank": 854
+  },
+  {
+    "pattern": 402,
+    "percentage": 1.23,
+    "tier": 0,
+    "rank": 855
+  },
+  {
+    "pattern": 538,
+    "percentage": 1.23,
+    "tier": 0,
+    "rank": 856
+  },
+  {
+    "pattern": 584,
+    "percentage": 1.22,
+    "tier": 0,
+    "rank": 857
+  },
+  {
+    "pattern": 705,
+    "percentage": 1.19,
+    "tier": 0,
+    "rank": 858
+  },
+  {
+    "pattern": 391,
+    "percentage": 1.16,
+    "tier": 0,
+    "rank": 859
+  },
+  {
+    "pattern": 747,
+    "percentage": 1.13,
+    "tier": 0,
+    "rank": 860
+  },
+  {
+    "pattern": 465,
+    "percentage": 1.12,
+    "tier": 0,
+    "rank": 861
+  },
+  {
+    "pattern": 738,
+    "percentage": 1.1,
+    "tier": 0,
+    "rank": 862
+  },
+  {
+    "pattern": 372,
+    "percentage": 1.09,
+    "tier": 0,
+    "rank": 863
+  },
+  {
+    "pattern": 825,
+    "percentage": 1.07,
+    "tier": 0,
+    "rank": 864
+  },
+  {
+    "pattern": 240,
+    "percentage": 1.05,
+    "tier": 0,
+    "rank": 865
+  },
+  {
+    "pattern": 794,
+    "percentage": 1.02,
+    "tier": 0,
+    "rank": 866
+  },
+  {
+    "pattern": 941,
+    "percentage": 1,
+    "tier": 0,
+    "rank": 867
+  },
+  {
+    "pattern": 686,
+    "percentage": 0.95,
+    "tier": 0,
+    "rank": 868
+  },
+  {
+    "pattern": 31,
+    "percentage": 0.92,
+    "tier": 0,
+    "rank": 869
+  },
+  {
+    "pattern": 144,
+    "percentage": 0.92,
+    "tier": 0,
+    "rank": 870
+  },
+  {
+    "pattern": 201,
+    "percentage": 0.92,
+    "tier": 0,
+    "rank": 871
+  },
+  {
+    "pattern": 523,
+    "percentage": 0.92,
+    "tier": 0,
+    "rank": 872
+  },
+  {
+    "pattern": 912,
+    "percentage": 0.92,
+    "tier": 0,
+    "rank": 873
+  },
+  {
+    "pattern": 65,
+    "percentage": 0.88,
+    "tier": 0,
+    "rank": 874
+  },
+  {
+    "pattern": 657,
+    "percentage": 0.88,
+    "tier": 0,
+    "rank": 875
+  },
+  {
+    "pattern": 895,
+    "percentage": 0.88,
+    "tier": 0,
+    "rank": 876
+  },
+  {
+    "pattern": 96,
+    "percentage": 0.86,
+    "tier": 0,
+    "rank": 877
+  },
+  {
+    "pattern": 441,
+    "percentage": 0.84,
+    "tier": 0,
+    "rank": 878
+  },
+  {
+    "pattern": 909,
+    "percentage": 0.84,
+    "tier": 0,
+    "rank": 879
+  },
+  {
+    "pattern": 389,
+    "percentage": 0.82,
+    "tier": 0,
+    "rank": 880
+  },
+  {
+    "pattern": 561,
+    "percentage": 0.78,
+    "tier": 0,
+    "rank": 881
+  },
+  {
+    "pattern": 896,
+    "percentage": 0.78,
+    "tier": 0,
+    "rank": 882
+  },
+  {
+    "pattern": 993,
+    "percentage": 0.78,
+    "tier": 0,
+    "rank": 883
+  },
+  {
+    "pattern": 439,
+    "percentage": 0.74,
+    "tier": 0,
+    "rank": 884
+  },
+  {
+    "pattern": 105,
+    "percentage": 0.73,
+    "tier": 0,
+    "rank": 885
+  },
+  {
+    "pattern": 473,
+    "percentage": 0.69,
+    "tier": 0,
+    "rank": 886
+  },
+  {
+    "pattern": 164,
+    "percentage": 0.68,
+    "tier": 0,
+    "rank": 887
+  },
+  {
+    "pattern": 148,
+    "percentage": 0.67,
+    "tier": 0,
+    "rank": 888
+  },
+  {
+    "pattern": 51,
+    "percentage": 0.64,
+    "tier": 0,
+    "rank": 889
+  },
+  {
+    "pattern": 859,
+    "percentage": 0.64,
+    "tier": 0,
+    "rank": 890
+  },
+  {
+    "pattern": 425,
+    "percentage": 0.63,
+    "tier": 0,
+    "rank": 891
+  },
+  {
+    "pattern": 165,
+    "percentage": 0.62,
+    "tier": 0,
+    "rank": 892
+  },
+  {
+    "pattern": 780,
+    "percentage": 0.62,
+    "tier": 0,
+    "rank": 893
+  },
+  {
+    "pattern": 195,
+    "percentage": 0.6,
+    "tier": 0,
+    "rank": 894
+  },
+  {
+    "pattern": 309,
+    "percentage": 0.55,
+    "tier": 0,
+    "rank": 895
+  },
+  {
+    "pattern": 393,
+    "percentage": 0.55,
+    "tier": 0,
+    "rank": 896
+  },
+  {
+    "pattern": 772,
+    "percentage": 0.55,
+    "tier": 0,
+    "rank": 897
+  },
+  {
+    "pattern": 181,
+    "percentage": 0.54,
+    "tier": 0,
+    "rank": 898
+  },
+  {
+    "pattern": 225,
+    "percentage": 0.54,
+    "tier": 0,
+    "rank": 899
+  },
+  {
+    "pattern": 946,
+    "percentage": 0.54,
+    "tier": 0,
+    "rank": 900
+  },
+  {
+    "pattern": 70,
+    "percentage": 0.53,
+    "tier": 0,
+    "rank": 901
+  },
+  {
+    "pattern": 357,
+    "percentage": 0.53,
+    "tier": 0,
+    "rank": 902
+  },
+  {
+    "pattern": 681,
+    "percentage": 0.52,
+    "tier": 0,
+    "rank": 903
+  },
+  {
+    "pattern": 8,
+    "percentage": 0.51,
+    "tier": 0,
+    "rank": 904
+  },
+  {
+    "pattern": 318,
+    "percentage": 0.51,
+    "tier": 0,
+    "rank": 905
+  },
+  {
+    "pattern": 667,
+    "percentage": 0.51,
+    "tier": 0,
+    "rank": 906
+  },
+  {
+    "pattern": 107,
+    "percentage": 0.5,
+    "tier": 0,
+    "rank": 907
+  },
+  {
+    "pattern": 469,
+    "percentage": 0.5,
+    "tier": 0,
+    "rank": 908
+  },
+  {
+    "pattern": 981,
+    "percentage": 0.5,
+    "tier": 0,
+    "rank": 909
+  },
+  {
+    "pattern": 382,
+    "percentage": 0.48,
+    "tier": 0,
+    "rank": 910
+  },
+  {
+    "pattern": 971,
+    "percentage": 0.47,
+    "tier": 0,
+    "rank": 911
+  },
+  {
+    "pattern": 781,
+    "percentage": 0.45,
+    "tier": 0,
+    "rank": 912
+  },
+  {
+    "pattern": 869,
+    "percentage": 0.44,
+    "tier": 0,
+    "rank": 913
+  },
+  {
+    "pattern": 221,
+    "percentage": 0.43,
+    "tier": 0,
+    "rank": 914
+  },
+  {
+    "pattern": 231,
+    "percentage": 0.41,
+    "tier": 0,
+    "rank": 915
+  },
+  {
+    "pattern": 91,
+    "percentage": 0.4,
+    "tier": 0,
+    "rank": 916
+  },
+  {
+    "pattern": 748,
+    "percentage": 0.39,
+    "tier": 0,
+    "rank": 917
+  },
+  {
+    "pattern": 851,
+    "percentage": 0.37,
+    "tier": 0,
+    "rank": 918
+  },
+  {
+    "pattern": 159,
+    "percentage": 0.36,
+    "tier": 0,
+    "rank": 919
+  },
+  {
+    "pattern": 483,
+    "percentage": 0.36,
+    "tier": 0,
+    "rank": 920
+  },
+  {
+    "pattern": 645,
+    "percentage": 0.35,
+    "tier": 0,
+    "rank": 921
+  },
+  {
+    "pattern": 753,
+    "percentage": 0.34,
+    "tier": 0,
+    "rank": 922
+  },
+  {
+    "pattern": 807,
+    "percentage": 0.34,
+    "tier": 0,
+    "rank": 923
+  },
+  {
+    "pattern": 613,
+    "percentage": 0.33,
+    "tier": 0,
+    "rank": 924
+  },
+  {
+    "pattern": 805,
+    "percentage": 0.33,
+    "tier": 0,
+    "rank": 925
+  },
+  {
+    "pattern": 959,
+    "percentage": 0.33,
+    "tier": 0,
+    "rank": 926
+  },
+  {
+    "pattern": 52,
+    "percentage": 0.3,
+    "tier": 0,
+    "rank": 927
+  },
+  {
+    "pattern": 108,
+    "percentage": 0.3,
+    "tier": 0,
+    "rank": 928
+  },
+  {
+    "pattern": 78,
+    "percentage": 0.29,
+    "tier": 0,
+    "rank": 929
+  },
+  {
+    "pattern": 119,
+    "percentage": 0.29,
+    "tier": 0,
+    "rank": 930
+  },
+  {
+    "pattern": 267,
+    "percentage": 0.29,
+    "tier": 0,
+    "rank": 931
+  },
+  {
+    "pattern": 280,
+    "percentage": 0.29,
+    "tier": 0,
+    "rank": 932
+  },
+  {
+    "pattern": 546,
+    "percentage": 0.29,
+    "tier": 0,
+    "rank": 933
+  },
+  {
+    "pattern": 867,
+    "percentage": 0.27,
+    "tier": 0,
+    "rank": 934
+  },
+  {
+    "pattern": 544,
+    "percentage": 0.25,
+    "tier": 0,
+    "rank": 935
+  },
+  {
+    "pattern": 135,
+    "percentage": 0.24,
+    "tier": 0,
+    "rank": 936
+  },
+  {
+    "pattern": 436,
+    "percentage": 0.24,
+    "tier": 0,
+    "rank": 937
+  },
+  {
+    "pattern": 915,
+    "percentage": 0.24,
+    "tier": 0,
+    "rank": 938
+  },
+  {
+    "pattern": 277,
+    "percentage": 0.22,
+    "tier": 0,
+    "rank": 939
+  },
+  {
+    "pattern": 476,
+    "percentage": 0.22,
+    "tier": 0,
+    "rank": 940
+  },
+  {
+    "pattern": 553,
+    "percentage": 0.22,
+    "tier": 0,
+    "rank": 941
+  },
+  {
+    "pattern": 679,
+    "percentage": 0.22,
+    "tier": 0,
+    "rank": 942
+  },
+  {
+    "pattern": 506,
+    "percentage": 0.2,
+    "tier": 0,
+    "rank": 943
+  },
+  {
+    "pattern": 143,
+    "percentage": 0.19,
+    "tier": 0,
+    "rank": 944
+  },
+  {
+    "pattern": 183,
+    "percentage": 0.19,
+    "tier": 0,
+    "rank": 945
+  },
+  {
+    "pattern": 692,
+    "percentage": 0.19,
+    "tier": 0,
+    "rank": 946
+  },
+  {
+    "pattern": 120,
+    "percentage": 0.18,
+    "tier": 0,
+    "rank": 947
+  },
+  {
+    "pattern": 656,
+    "percentage": 0.18,
+    "tier": 0,
+    "rank": 948
+  },
+  {
+    "pattern": 69,
+    "percentage": 0.16,
+    "tier": 0,
+    "rank": 949
+  },
+  {
+    "pattern": 602,
+    "percentage": 0.16,
+    "tier": 0,
+    "rank": 950
+  },
+  {
+    "pattern": 653,
+    "percentage": 0.14,
+    "tier": 0,
+    "rank": 951
+  },
+  {
+    "pattern": 733,
+    "percentage": 0.14,
+    "tier": 0,
+    "rank": 952
+  },
+  {
+    "pattern": 958,
+    "percentage": 0.13,
+    "tier": 0,
+    "rank": 953
+  },
+  {
+    "pattern": 145,
+    "percentage": 0.12,
+    "tier": 0,
+    "rank": 954
+  },
+  {
+    "pattern": 433,
+    "percentage": 0.12,
+    "tier": 0,
+    "rank": 955
+  },
+  {
+    "pattern": 489,
+    "percentage": 0.12,
+    "tier": 0,
+    "rank": 956
+  },
+  {
+    "pattern": 500,
+    "percentage": 0.12,
+    "tier": 0,
+    "rank": 957
+  },
+  {
+    "pattern": 548,
+    "percentage": 0.11,
+    "tier": 0,
+    "rank": 958
+  },
+  {
+    "pattern": 771,
+    "percentage": 0.1,
+    "tier": 0,
+    "rank": 959
+  },
+  {
+    "pattern": 339,
+    "percentage": 0.09,
+    "tier": 0,
+    "rank": 960
+  },
+  {
+    "pattern": 346,
+    "percentage": 0.09,
+    "tier": 0,
+    "rank": 961
+  },
+  {
+    "pattern": 755,
+    "percentage": 0.09,
+    "tier": 0,
+    "rank": 962
+  },
+  {
+    "pattern": 480,
+    "percentage": 0.05,
+    "tier": 0,
+    "rank": 963
+  },
+  {
+    "pattern": 543,
+    "percentage": 0.05,
+    "tier": 0,
+    "rank": 964
+  },
+  {
+    "pattern": 939,
+    "percentage": 0.04,
+    "tier": 0,
+    "rank": 965
+  },
+  {
+    "pattern": 988,
+    "percentage": 0.03,
+    "tier": 0,
+    "rank": 966
+  },
+  {
+    "pattern": 16,
+    "percentage": 0.02,
+    "tier": 0,
+    "rank": 967
+  },
+  {
+    "pattern": 27,
+    "percentage": 0.02,
+    "tier": 0,
+    "rank": 968
+  },
+  {
+    "pattern": 218,
+    "percentage": 0.02,
+    "tier": 0,
+    "rank": 969
+  },
+  {
+    "pattern": 364,
+    "percentage": 0.02,
+    "tier": 0,
+    "rank": 970
+  },
+  {
+    "pattern": 486,
+    "percentage": 0.02,
+    "tier": 0,
+    "rank": 971
+  },
+  {
+    "pattern": 552,
+    "percentage": 0.02,
+    "tier": 0,
+    "rank": 972
+  },
+  {
+    "pattern": 559,
+    "percentage": 0.02,
+    "tier": 0,
+    "rank": 973
+  },
+  {
+    "pattern": 2,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 974
+  },
+  {
+    "pattern": 10,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 975
+  },
+  {
+    "pattern": 48,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 976
+  },
+  {
+    "pattern": 64,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 977
+  },
+  {
+    "pattern": 338,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 978
+  },
+  {
+    "pattern": 388,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 979
+  },
+  {
+    "pattern": 477,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 980
+  },
+  {
+    "pattern": 536,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 981
+  },
+  {
+    "pattern": 765,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 982
+  },
+  {
+    "pattern": 790,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 983
+  },
+  {
+    "pattern": 995,
+    "percentage": 0.01,
+    "tier": 0,
+    "rank": 984
+  },
+  {
+    "pattern": 41,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 985
+  },
+  {
+    "pattern": 104,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 986
+  },
+  {
+    "pattern": 124,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 987
+  },
+  {
+    "pattern": 156,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 988
+  },
+  {
+    "pattern": 203,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 989
+  },
+  {
+    "pattern": 328,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 990
+  },
+  {
+    "pattern": 422,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 991
+  },
+  {
+    "pattern": 564,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 992
+  },
+  {
+    "pattern": 709,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 993
+  },
+  {
+    "pattern": 722,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 994
+  },
+  {
+    "pattern": 742,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 995
+  },
+  {
+    "pattern": 769,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 996
+  },
+  {
+    "pattern": 802,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 997
+  },
+  {
+    "pattern": 815,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 998
+  },
+  {
+    "pattern": 976,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 999
+  },
+  {
+    "pattern": 996,
+    "percentage": 0,
+    "tier": 0,
+    "rank": 1000
+  }
+]
